@@ -1,0 +1,1180 @@
+{
+  "statewide_places": [
+    {
+      "name": "Aiyanar village guardian shrines, statewide",
+      "type": "statewide heritage or folk tradition",
+      "religion": "Indigenous, folk and local religious traditions",
+      "why_famous": "Aiyanar shrines are widespread across Tamil villages, often with terracotta horses and figures offered by devotees; the shrine forms vary by locality.",
+      "source": "overall records"
+    },
+    {
+      "name": "Kal Vittukal (memorial and hero stones), statewide category",
+      "type": "statewide heritage or folk tradition",
+      "religion": "Indigenous and folk traditions (ancestor and hero veneration)",
+      "why_famous": "Memorial stones (nadukal, virakkal, or hero stones) are carved slabs that commemorate warriors, cattle-raiders, or people who died in battle or in community events. The earliest forms are referred to in Sangam-era Tamil literature, and many medieval examples carry inscriptions and carved scenes showing the death, the hero's ascent, and sometimes the wife's sati or family members.",
+      "source": "overall records"
+    }
+  ],
+  "dataset": "CultureGraph — Tamil Nadu Famous and Hidden Places by District (starter)",
+  "version": "1.0",
+  "note": "Places are grouped by district. 'famous' means widely known; 'hidden_gem' means lesser-known or local. Temples and heritage records come from the overall file; the other places are added from general knowledge and must be verified.",
+  "total_places": 129,
+  "districts": [
+    {
+      "district": "Chennai",
+      "region": "Northern Tamil Nadu",
+      "place_count": 9,
+      "places": [
+        {
+          "name": "Arulmigu Kapaleeswarar Temple, Mylapore",
+          "type": "place of worship or heritage",
+          "religion": "Hinduism (Shaivism)",
+          "why_famous": "The present temple is largely a Vijayanagara-period structure, rebuilt in the 16th century, and it is known for its Dravidian-style gopuram.",
+          "source": "overall records"
+        },
+        {
+          "name": "Kandaswamy Koil, Washermanpet",
+          "type": "place of worship or heritage",
+          "religion": "Hinduism (Murugan worship)",
+          "why_famous": "A Murugan temple in north Chennai with a long-standing local congregation; its records are mostly local and need verification.",
+          "source": "overall records"
+        },
+        {
+          "name": "Parthasarathy Temple, Triplicane",
+          "type": "place of worship or heritage",
+          "religion": "Hinduism (Vaishnavism)",
+          "why_famous": "A Vaishnava shrine whose present structure reflects Vijayanagara-period building; it is a Divya Desam praised by the Alvar saints.",
+          "source": "overall records"
+        },
+        {
+          "name": "Santhome Basilica, Chennai",
+          "type": "place of worship or heritage",
+          "religion": "Christianity",
+          "why_famous": "The present basilica is a 19th-century Gothic Revival church built over a Portuguese-era church of the 16th century.",
+          "source": "overall records"
+        },
+        {
+          "name": "St. Thomas Mount (Parangimalai), Chennai",
+          "type": "place of worship or heritage",
+          "religion": "Christianity",
+          "why_famous": "A Portuguese-era shrine and church on a hill, documented from the 16th century onward.",
+          "source": "overall records"
+        },
+        {
+          "name": "Wallajah Mosque (Triplicane), Chennai",
+          "type": "place of worship or heritage",
+          "religion": "Islam",
+          "why_famous": "Built in 1795 by Nawab Muhammad Ali Khan Wallajah, a historic mosque in Triplicane, Chennai.",
+          "source": "overall records"
+        },
+        {
+          "name": "Marina Beach",
+          "type": "famous",
+          "religion": null,
+          "why_famous": "One of the longest urban beaches in India, a popular public gathering place in Chennai.",
+          "source": "hidden or famous list; verify before publishing"
+        },
+        {
+          "name": "Fort St. George",
+          "type": "famous",
+          "religion": null,
+          "why_famous": "The first English fortress in India, built in the 1640s and now a museum with colonial-era records.",
+          "source": "hidden or famous list; verify before publishing"
+        },
+        {
+          "name": "Elliot's Beach (Besant Nagar)",
+          "type": "hidden_gem",
+          "religion": null,
+          "why_famous": "A quieter beach with a sunset-facing promenade, popular with locals in the evenings.",
+          "source": "hidden or famous list; verify before publishing"
+        }
+      ]
+    },
+    {
+      "district": "Tiruvallur",
+      "region": "Northern Tamil Nadu",
+      "place_count": 3,
+      "places": [
+        {
+          "name": "Tiruttani Subramaniya Swamy Temple",
+          "type": "place of worship or heritage",
+          "religion": "Hinduism (Murugan worship)",
+          "why_famous": "A hilltop Murugan shrine known as one of the six abodes (Arupadai Veedu) and a major pilgrimage centre.",
+          "source": "overall records"
+        },
+        {
+          "name": "Veeraraghava Perumal Temple, Tiruvallur",
+          "type": "place of worship or heritage",
+          "religion": "Hinduism (Vaishnavism)",
+          "why_famous": "A Vaishnava Divya Desam in Tiruvallur town, with Chola-period and later additions.",
+          "source": "overall records"
+        },
+        {
+          "name": "Pulicat Lake",
+          "type": "hidden_gem",
+          "religion": null,
+          "why_famous": "A large brackish lagoon with migratory birds, and a fishing and salt-making community.",
+          "source": "hidden or famous list; verify before publishing"
+        }
+      ]
+    },
+    {
+      "district": "Chengalpattu",
+      "region": "Northern Tamil Nadu",
+      "place_count": 5,
+      "places": [
+        {
+          "name": "Kandaswamy Temple, Thiruporur",
+          "type": "place of worship or heritage",
+          "religion": "Hinduism (Murugan worship)",
+          "why_famous": "A Murugan shrine in Thiruporur, noted in local records as a site of historic patronage; dates should be verified.",
+          "source": "overall records"
+        },
+        {
+          "name": "Shore Temple, Mamallapuram",
+          "type": "place of worship or heritage",
+          "religion": "Hinduism (Shaivism and Vaishnavism)",
+          "why_famous": "Built in the Pallava period, generally dated to the early 8th century during the reign of Rajasimha. It is a UNESCO World Heritage Site as part of the Group of Monuments at Mamallapuram.",
+          "source": "overall records"
+        },
+        {
+          "name": "Vedagirishwarar Temple, Thirukkalukundram",
+          "type": "place of worship or heritage",
+          "religion": "Hinduism (Shaivism)",
+          "why_famous": "A hill temple with rock-cut Pallava-period features; the hilltop shrine is traditionally associated with a ritual of eagles.",
+          "source": "overall records"
+        },
+        {
+          "name": "Vedanthangal Bird Sanctuary",
+          "type": "famous",
+          "religion": null,
+          "why_famous": "One of India's oldest bird sanctuaries, known for large numbers of nesting waterbirds each season.",
+          "source": "hidden or famous list; verify before publishing"
+        },
+        {
+          "name": "Shore Temple and Five Rathas (Mamallapuram)",
+          "type": "famous",
+          "religion": null,
+          "why_famous": "UNESCO-listed Pallava monuments carved from rock on the coast.",
+          "source": "hidden or famous list; verify before publishing"
+        }
+      ]
+    },
+    {
+      "district": "Kancheepuram",
+      "region": "Northern Tamil Nadu",
+      "place_count": 5,
+      "places": [
+        {
+          "name": "Ekambareswarar Temple, Kanchipuram",
+          "type": "place of worship or heritage",
+          "religion": "Hinduism (Shaivism)",
+          "why_famous": "A major temple with Pallava origins and large gopurams added in the Vijayanagara period.",
+          "source": "overall records"
+        },
+        {
+          "name": "Kailasanathar Temple, Kanchipuram",
+          "type": "place of worship or heritage",
+          "religion": "Hinduism (Shaivism)",
+          "why_famous": "Built by the Pallava king Rajasimha (Narasimhavarman II), generally dated to the late 7th to early 8th century, and one of the earliest surviving structural temples in South India built from sandstone.",
+          "source": "overall records"
+        },
+        {
+          "name": "Kamakshi Amman Temple, Kanchipuram",
+          "type": "place of worship or heritage",
+          "religion": "Hinduism (Shaktism)",
+          "why_famous": "A major Shakta temple in Kanchipuram with a long history of Pallava-era and later patronage.",
+          "source": "overall records"
+        },
+        {
+          "name": "Varadaraja Perumal Temple, Kanchipuram",
+          "type": "place of worship or heritage",
+          "religion": "Hinduism (Vaishnavism)",
+          "why_famous": "A Vaishnava Divya Desam with Vijayanagara-period pillared halls and later additions.",
+          "source": "overall records"
+        },
+        {
+          "name": "Kanchipuram silk weaving town",
+          "type": "famous",
+          "religion": null,
+          "why_famous": "Kanchipuram is known for its handwoven silk saris, a craft tied to local weaving families.",
+          "source": "hidden or famous list; verify before publishing"
+        }
+      ]
+    },
+    {
+      "district": "Vellore",
+      "region": "Northern Tamil Nadu",
+      "place_count": 3,
+      "places": [
+        {
+          "name": "Jalakandeswarar Temple, Vellore",
+          "type": "place of worship or heritage",
+          "religion": "Hinduism (Shaivism)",
+          "why_famous": "A Shaiva temple with Vijayanagara-period structures, near the Vellore fort.",
+          "source": "overall records"
+        },
+        {
+          "name": "Sripuram Golden Temple (Mahalakshmi Temple)",
+          "type": "place of worship or heritage",
+          "religion": "Hinduism (Lakshmi worship)",
+          "why_famous": "A modern temple built by the Sri Narayani Peetham trust and opened in the 2000s, notable for its gold-plated surfaces. It is not an ancient temple, and its construction history is recent and documented by the trust.",
+          "source": "overall records"
+        },
+        {
+          "name": "Vellore Fort",
+          "type": "famous",
+          "religion": null,
+          "why_famous": "A fort built by the Vijayanagara rulers and later held by the British, with a moat and a museum.",
+          "source": "hidden or famous list; verify before publishing"
+        }
+      ]
+    },
+    {
+      "district": "Ranipet",
+      "region": "Northern Tamil Nadu",
+      "place_count": 2,
+      "places": [
+        {
+          "name": "Parasurameswarar Temple, Thiruvalam",
+          "type": "place of worship or heritage",
+          "religion": "Hinduism (Shaivism)",
+          "why_famous": "A Shaiva temple at Thiruvalam, with Chola and Vijayanagara-period additions recorded in local inscriptions.",
+          "source": "overall records"
+        },
+        {
+          "name": "Arcot Nawab heritage sites",
+          "type": "hidden_gem",
+          "religion": null,
+          "why_famous": "Remnants of the Nawab of Arcot's era, documented in regional heritage records.",
+          "source": "hidden or famous list; verify before publishing"
+        }
+      ]
+    },
+    {
+      "district": "Tirupathur",
+      "region": "Northern Tamil Nadu",
+      "place_count": 2,
+      "places": [
+        {
+          "name": "Yelagiri Hills",
+          "type": "famous",
+          "religion": null,
+          "why_famous": "A small hill station with a lake, viewpoints and a quieter atmosphere than the Nilgiris.",
+          "source": "hidden or famous list; verify before publishing"
+        },
+        {
+          "name": "Jalagamparai Falls",
+          "type": "hidden_gem",
+          "religion": null,
+          "why_famous": "A seasonal waterfall in the hills, popular with local visitors during the monsoon.",
+          "source": "hidden or famous list; verify before publishing"
+        }
+      ]
+    },
+    {
+      "district": "Tiruvannamalai",
+      "region": "Northern Tamil Nadu",
+      "place_count": 3,
+      "places": [
+        {
+          "name": "Arulmigu Arunachaleswarar Temple, Tiruvannamalai",
+          "type": "place of worship or heritage",
+          "religion": "Hinduism (Shaivism)",
+          "why_famous": "A major Shaiva temple with extensive construction from the Chola period onward, and large additions in the Vijayanagara period including gopurams and the 1000-pillared hall.",
+          "source": "overall records"
+        },
+        {
+          "name": "Ramana Maharshi Ashram, Tiruvannamalai",
+          "type": "place of worship or heritage",
+          "religion": "Hinduism (Advaita spiritual tradition)",
+          "why_famous": "The ashram developed around Ramana Maharshi, who lived at the Arunachala hill from 1896 until his death in 1950.",
+          "source": "overall records"
+        },
+        {
+          "name": "Arunachala Hill (Girivalam)",
+          "type": "famous",
+          "religion": null,
+          "why_famous": "A sacred hill circled on foot by pilgrims during Girivalam, especially on full moon nights.",
+          "source": "hidden or famous list; verify before publishing"
+        }
+      ]
+    },
+    {
+      "district": "Kallakurichi",
+      "region": "Northern Tamil Nadu",
+      "place_count": 2,
+      "places": [
+        {
+          "name": "Ulagalanda Perumal Temple, Thirukoilur",
+          "type": "place of worship or heritage",
+          "religion": "Hinduism (Vaishnavism)",
+          "why_famous": "A Vaishnava Divya Desam on the Pennai river, with Chola-period and later structures.",
+          "source": "overall records"
+        },
+        {
+          "name": "Kalvarayan Hills",
+          "type": "hidden_gem",
+          "religion": null,
+          "why_famous": "Forested hills with waterfalls and a quieter, less visited landscape.",
+          "source": "hidden or famous list; verify before publishing"
+        }
+      ]
+    },
+    {
+      "district": "Villupuram",
+      "region": "Northern Tamil Nadu",
+      "place_count": 2,
+      "places": [
+        {
+          "name": "Gingee Fort and Varadarajaswamy Temple",
+          "type": "place of worship or heritage",
+          "religion": "Hinduism (Vaishnavism)",
+          "why_famous": "The Gingee fort complex includes a Vaishnava temple, with fortifications built under Chola, Vijayanagara and later Nayak-era rulers.",
+          "source": "overall records"
+        },
+        {
+          "name": "Gingee Fort",
+          "type": "famous",
+          "religion": null,
+          "why_famous": "A hill fort complex with three fortified hills, built and expanded over several dynasties.",
+          "source": "hidden or famous list; verify before publishing"
+        }
+      ]
+    },
+    {
+      "district": "Cuddalore",
+      "region": "Northern Tamil Nadu",
+      "place_count": 4,
+      "places": [
+        {
+          "name": "Arulmigu Nataraja Temple, Chidambaram",
+          "type": "place of worship or heritage",
+          "religion": "Hinduism (Shaivism)",
+          "why_famous": "A major Shaiva centre with Chola-period patronage and later additions. The Tamil Shaiva hymns of the Nayanars, including those attributed to Tirugnanasambandar, refer to the Thillai shrine.",
+          "source": "overall records"
+        },
+        {
+          "name": "Thirupadhiripuliyur Vyaghrapureeswarar Temple",
+          "type": "place of worship or heritage",
+          "religion": "Hinduism (Shaivism)",
+          "why_famous": "A Shaiva shrine in Cuddalore district, praised in the hymns of the Nayanar saints and associated with Chola-era patronage.",
+          "source": "overall records"
+        },
+        {
+          "name": "Vriddhachalam Mukteeswarar Temple",
+          "type": "place of worship or heritage",
+          "religion": "Hinduism (Shaivism)",
+          "why_famous": "A Shaiva temple at Vriddhachalam; listed among the Padal Petra Sthalam shrines praised in Tamil Shaiva hymns.",
+          "source": "overall records"
+        },
+        {
+          "name": "Pichavaram Mangrove Forest",
+          "type": "famous",
+          "religion": null,
+          "why_famous": "One of the largest mangrove forests in India, navigable by small boats through its canals.",
+          "source": "hidden or famous list; verify before publishing"
+        }
+      ]
+    },
+    {
+      "district": "Thanjavur",
+      "region": "Cauvery Delta",
+      "place_count": 7,
+      "places": [
+        {
+          "name": "Airavatesvara Temple, Darasuram",
+          "type": "place of worship or heritage",
+          "religion": "Hinduism (Shaivism)",
+          "why_famous": "Built during the reign of Rajaraja Chola II in the 12th century, and part of the UNESCO-listed Great Living Chola Temples.",
+          "source": "overall records"
+        },
+        {
+          "name": "Arulmigu Brihadeeswarar Temple",
+          "type": "place of worship or heritage",
+          "religion": "Hinduism (Shaivism)",
+          "why_famous": "Built by Raja Raja Chola I and generally dated to completion around 1010 CE. It is a UNESCO World Heritage Site as part of the Great Living Chola Temples.",
+          "source": "overall records"
+        },
+        {
+          "name": "Mahamaham Tank, Kumbakonam",
+          "type": "place of worship or heritage",
+          "religion": "Hinduism (tirtha)",
+          "why_famous": "A large sacred tank in Kumbakonam, the site of the Mahamaham festival held once every twelve years.",
+          "source": "overall records"
+        },
+        {
+          "name": "Sarangapani Temple, Kumbakonam",
+          "type": "place of worship or heritage",
+          "religion": "Hinduism (Vaishnavism)",
+          "why_famous": "A Vaishnava Divya Desam with Nayak-era gopurams and pillared halls.",
+          "source": "overall records"
+        },
+        {
+          "name": "Swaminathaswamy Temple, Swamimalai",
+          "type": "place of worship or heritage",
+          "religion": "Hinduism (Murugan worship)",
+          "why_famous": "The temple is one of the six abodes of Murugan (Arupadai Veedu). The town is known as a centre of traditional bronze-casting by hereditary sthapati (sculptor) families, a craft that continues today.",
+          "source": "overall records"
+        },
+        {
+          "name": "Thanjavur Palace and Saraswathi Mahal Library",
+          "type": "famous",
+          "religion": null,
+          "why_famous": "The Maratha-era palace complex and a historic manuscript library in the old Thanjavur court.",
+          "source": "hidden or famous list; verify before publishing"
+        },
+        {
+          "name": "Kumbakonam Mahamaham Tank",
+          "type": "famous",
+          "religion": null,
+          "why_famous": "A large temple tank at the centre of the Mahamaham festival; already covered in temple records.",
+          "source": "hidden or famous list; verify before publishing"
+        }
+      ]
+    },
+    {
+      "district": "Thiruvarur",
+      "region": "Cauvery Delta",
+      "place_count": 3,
+      "places": [
+        {
+          "name": "Arulmigu Thyagaraja Swamy Temple, Thiruvarur",
+          "type": "place of worship or heritage",
+          "religion": "Hinduism (Shaivism)",
+          "why_famous": "An ancient temple with Chola-period additions, and one of the 'Padal Petra Sthalam' shrines praised in the Tamil Shaiva hymns.",
+          "source": "overall records"
+        },
+        {
+          "name": "Bhaktavatsalaperumal Temple, Thirukannamangai",
+          "type": "place of worship or heritage",
+          "religion": "Hinduism (Vaishnavism)",
+          "why_famous": "A Vaishnava Divya Desam in Thiruvarur district with Chola-period and later additions.",
+          "source": "overall records"
+        },
+        {
+          "name": "Thiruvarur Ther (chariot festival)",
+          "type": "famous",
+          "religion": null,
+          "why_famous": "The large chariot of the Thyagaraja temple, pulled during its festival.",
+          "source": "hidden or famous list; verify before publishing"
+        }
+      ]
+    },
+    {
+      "district": "Nagapattinam",
+      "region": "Cauvery Delta",
+      "place_count": 7,
+      "places": [
+        {
+          "name": "Basilica of Our Lady of Good Health, Velankanni",
+          "type": "place of worship or heritage",
+          "religion": "Christianity (Roman Catholic)",
+          "why_famous": "The present basilica was built in the 20th century, and the shrine is a major Catholic pilgrimage centre in South Asia.",
+          "source": "overall records"
+        },
+        {
+          "name": "Naganathaswamy Temple, Nagapattinam",
+          "type": "place of worship or heritage",
+          "religion": "Hinduism (Shaivism)",
+          "why_famous": "A Shaiva temple in Nagapattinam town, built and extended under Chola patronage, with later Nayak-era building.",
+          "source": "overall records"
+        },
+        {
+          "name": "Nagapattinam Buddhist heritage (Chudamani Vihara)",
+          "type": "place of worship or heritage",
+          "religion": "Buddhism",
+          "why_famous": "Nagapattinam was a historic Buddhist centre in medieval records, with a monastery linked to Chola-era patronage; the exact building history should be verified.",
+          "source": "overall records"
+        },
+        {
+          "name": "Nagore Dargah (Hazrat Shahul Hameed Dargah)",
+          "type": "place of worship or heritage",
+          "religion": "Islam (Sufi dargah)",
+          "why_famous": "The dargah is generally dated to the 16th century and is a major site of Sufi devotion in South India, with a large mausoleum and architecture that blends Islamic and regional Tamil styles.",
+          "source": "overall records"
+        },
+        {
+          "name": "Soundararajaperumal Temple, Nagapattinam",
+          "type": "place of worship or heritage",
+          "religion": "Hinduism (Vaishnavism)",
+          "why_famous": "A Vaishnava temple in Nagapattinam with Chola-era origins and later additions; details should be verified.",
+          "source": "overall records"
+        },
+        {
+          "name": "Point Calimere Wildlife Sanctuary",
+          "type": "famous",
+          "religion": null,
+          "why_famous": "A coastal wildlife sanctuary known for migratory birds and the blackbuck.",
+          "source": "hidden or famous list; verify before publishing"
+        },
+        {
+          "name": "Vedaranyam Salt Satyagraha site",
+          "type": "hidden_gem",
+          "religion": null,
+          "why_famous": "A place linked to the 1930 salt satyagraha movement; local records should be checked.",
+          "source": "hidden or famous list; verify before publishing"
+        }
+      ]
+    },
+    {
+      "district": "Mayiladuthurai",
+      "region": "Cauvery Delta",
+      "place_count": 3,
+      "places": [
+        {
+          "name": "Mayuranathaswamy Temple, Mayiladuthurai",
+          "type": "place of worship or heritage",
+          "religion": "Hinduism (Shaivism)",
+          "why_famous": "A Shaiva temple in Mayiladuthurai, one of the Padal Petra Sthalam shrines, with Chola-period building.",
+          "source": "overall records"
+        },
+        {
+          "name": "Thiruvavaduthurai Mahalingeswarar Temple and Adheenam",
+          "type": "place of worship or heritage",
+          "religion": "Hinduism (Shaivism)",
+          "why_famous": "A major Shaiva temple with an adjoining Shaiva monastery (adheenam) that has been active for centuries.",
+          "source": "overall records"
+        },
+        {
+          "name": "Thiruvavaduthurai Adheenam",
+          "type": "hidden_gem",
+          "religion": null,
+          "why_famous": "A Shaiva monastery with a long tradition of scholarship and music.",
+          "source": "hidden or famous list; verify before publishing"
+        }
+      ]
+    },
+    {
+      "district": "Tiruchirappalli",
+      "region": "Cauvery Delta",
+      "place_count": 4,
+      "places": [
+        {
+          "name": "Arulmigu Ranganathaswamy Temple, Srirangam",
+          "type": "place of worship or heritage",
+          "religion": "Hinduism (Vaishnavism)",
+          "why_famous": "One of the largest functioning temple complexes in India, with layers of construction from the Chola, Pandya, Hoysala, and Vijayanagara periods.",
+          "source": "overall records"
+        },
+        {
+          "name": "Jambukeswarar Temple, Thiruvanaikaval",
+          "type": "place of worship or heritage",
+          "religion": "Hinduism (Shaivism)",
+          "why_famous": "A large Shaiva temple with Chola-period origins and later Nayak-era additions; one of the Pancha Bhoota sthalams.",
+          "source": "overall records"
+        },
+        {
+          "name": "Rockfort Uchi Pillayar Temple",
+          "type": "place of worship or heritage",
+          "religion": "Hinduism (Ganesha worship)",
+          "why_famous": "A Ganesha shrine on the rock summit of Tiruchirappalli, with rock-cut Pallava-period features and later Nayak-era additions.",
+          "source": "overall records"
+        },
+        {
+          "name": "Rockfort Temple",
+          "type": "famous",
+          "religion": null,
+          "why_famous": "A temple on a rock summit that gives the city a landmark skyline.",
+          "source": "hidden or famous list; verify before publishing"
+        }
+      ]
+    },
+    {
+      "district": "Ariyalur",
+      "region": "Cauvery Delta",
+      "place_count": 2,
+      "places": [
+        {
+          "name": "Gangaikondacholisvaram Temple (Brihadeeswarar, Gangaikonda Cholapuram)",
+          "type": "place of worship or heritage",
+          "religion": "Hinduism (Shaivism)",
+          "why_famous": "Built by Rajendra Chola I in the early 11th century as a new Chola capital and temple, named to commemorate his campaigns to the north, and part of the UNESCO-listed Great Living Chola Temples.",
+          "source": "overall records"
+        },
+        {
+          "name": "Gangaikonda Cholapuram Palace Ruins",
+          "type": "hidden_gem",
+          "religion": null,
+          "why_famous": "Remnants of the Chola capital, with excavated ruins alongside the temple.",
+          "source": "hidden or famous list; verify before publishing"
+        }
+      ]
+    },
+    {
+      "district": "Perambalur",
+      "region": "Cauvery Delta",
+      "place_count": 1,
+      "places": [
+        {
+          "name": "Vridhachalam Shiva Temple area",
+          "type": "hidden_gem",
+          "religion": null,
+          "why_famous": "A Shaiva temple town with local festivals; verified details are pending.",
+          "source": "hidden or famous list; verify before publishing"
+        }
+      ]
+    },
+    {
+      "district": "Pudukkottai",
+      "region": "Cauvery Delta",
+      "place_count": 5,
+      "places": [
+        {
+          "name": "Brahmapureeswarar Temple, Thirukokarnam",
+          "type": "place of worship or heritage",
+          "religion": "Hinduism (Shaivism)",
+          "why_famous": "A Shaiva temple in Pudukkottai district with Pallava and Chola-era origins, noted for its rock-cut shrine.",
+          "source": "overall records"
+        },
+        {
+          "name": "Sittannavasal Cave Temple",
+          "type": "place of worship or heritage",
+          "religion": "Jainism",
+          "why_famous": "Covered in the main records above; a Jain rock-cut cave with Tamil-Brahmi inscriptions and Pandya-period frescoes.",
+          "source": "overall records"
+        },
+        {
+          "name": "Sittannavasal Cave Temple (Arivar Koil)",
+          "type": "place of worship or heritage",
+          "religion": "Jainism",
+          "why_famous": "A rock-cut Jain cave with Tamil-Brahmi inscriptions in the cave, commonly dated to the 2nd century BCE to 1st century CE, indicating early Jain presence in the Tamil region.",
+          "source": "overall records"
+        },
+        {
+          "name": "Kudumiyanmalai Rock Inscriptions",
+          "type": "hidden_gem",
+          "religion": null,
+          "why_famous": "Rock inscriptions and a music-related temple, linked to early Tamil musical history.",
+          "source": "hidden or famous list; verify before publishing"
+        },
+        {
+          "name": "Thirukokarnam Temple",
+          "type": "hidden_gem",
+          "religion": null,
+          "why_famous": "A Shaiva temple with early architectural features, described in regional studies.",
+          "source": "hidden or famous list; verify before publishing"
+        }
+      ]
+    },
+    {
+      "district": "Coimbatore",
+      "region": "Western Tamil Nadu",
+      "place_count": 4,
+      "places": [
+        {
+          "name": "Dhyanalinga and Adiyogi Shiva (Isha Yoga Center)",
+          "type": "place of worship or heritage",
+          "religion": "Hinduism (modern Shaiva spiritual centre)",
+          "why_famous": "A modern spiritual centre established in the 2000s, with the Dhyanalinga installed in 1999 and a large Adiyogi statue added in 2017.",
+          "source": "overall records"
+        },
+        {
+          "name": "Marudamalai Subramanya Swamy Temple",
+          "type": "place of worship or heritage",
+          "religion": "Hinduism (Murugan worship)",
+          "why_famous": "A Murugan temple on a hill outside Coimbatore, a popular pilgrimage site with a documented history of worship.",
+          "source": "overall records"
+        },
+        {
+          "name": "Siruvani Waterfalls",
+          "type": "hidden_gem",
+          "religion": null,
+          "why_famous": "A waterfall in the Western Ghats, known for clean water and forest views.",
+          "source": "hidden or famous list; verify before publishing"
+        },
+        {
+          "name": "Valparai",
+          "type": "hidden_gem",
+          "religion": null,
+          "why_famous": "A tea-estate hill town reached by winding roads, with forest and wildlife.",
+          "source": "hidden or famous list; verify before publishing"
+        }
+      ]
+    },
+    {
+      "district": "Tiruppur",
+      "region": "Western Tamil Nadu",
+      "place_count": 2,
+      "places": [
+        {
+          "name": "Avinashilingeswarar Temple, Avinashi",
+          "type": "place of worship or heritage",
+          "religion": "Hinduism (Shaivism)",
+          "why_famous": "A Shaiva temple at Avinashi with Chola-period origins and later additions.",
+          "source": "overall records"
+        },
+        {
+          "name": "Thirumurthy Hills",
+          "type": "hidden_gem",
+          "religion": null,
+          "why_famous": "A hill with a Shiva shrine and a dam, a quiet nature spot.",
+          "source": "hidden or famous list; verify before publishing"
+        }
+      ]
+    },
+    {
+      "district": "Erode",
+      "region": "Western Tamil Nadu",
+      "place_count": 2,
+      "places": [
+        {
+          "name": "Bhavani Sangameswarar Temple, Bhavani",
+          "type": "place of worship or heritage",
+          "religion": "Hinduism (Shaivism)",
+          "why_famous": "A Shaiva temple at the confluence of the Bhavani and Kaveri rivers, with Chola and later additions.",
+          "source": "overall records"
+        },
+        {
+          "name": "Sathyamangalam Tiger Reserve",
+          "type": "hidden_gem",
+          "religion": null,
+          "why_famous": "A forested tiger reserve in the hills, with wildlife trails.",
+          "source": "hidden or famous list; verify before publishing"
+        }
+      ]
+    },
+    {
+      "district": "Salem",
+      "region": "Western Tamil Nadu",
+      "place_count": 3,
+      "places": [
+        {
+          "name": "Kottai Mariamman Temple, Salem",
+          "type": "place of worship or heritage",
+          "religion": "Hinduism (Shaktism)",
+          "why_famous": "A Mariamman temple in central Salem, a popular local shrine of the Shakta tradition.",
+          "source": "overall records"
+        },
+        {
+          "name": "Sugavaneswarar Temple, Salem",
+          "type": "place of worship or heritage",
+          "religion": "Hinduism (Shaivism)",
+          "why_famous": "A Shaiva temple in Salem with Chola and later additions; it is among the historic temples of the Salem region.",
+          "source": "overall records"
+        },
+        {
+          "name": "Yercaud",
+          "type": "famous",
+          "religion": null,
+          "why_famous": "A hill station in the Shevaroy hills, with a lake and viewpoints.",
+          "source": "hidden or famous list; verify before publishing"
+        }
+      ]
+    },
+    {
+      "district": "Namakkal",
+      "region": "Western Tamil Nadu",
+      "place_count": 2,
+      "places": [
+        {
+          "name": "Anjaneyar Temple, Namakkal",
+          "type": "place of worship or heritage",
+          "religion": "Hinduism (Hanuman worship)",
+          "why_famous": "A rock-cut Hanuman temple built on a rock hill; the rock-cut architecture is commonly dated to the Nayak period.",
+          "source": "overall records"
+        },
+        {
+          "name": "Kolli Hills",
+          "type": "hidden_gem",
+          "religion": null,
+          "why_famous": "A hill range with waterfalls, tea and coffee estates, and a quieter hill-station feel.",
+          "source": "hidden or famous list; verify before publishing"
+        }
+      ]
+    },
+    {
+      "district": "Dharmapuri",
+      "region": "Western Tamil Nadu",
+      "place_count": 2,
+      "places": [
+        {
+          "name": "Hogenakkal Falls",
+          "type": "famous",
+          "religion": null,
+          "why_famous": "Waterfalls on the Kaveri river, popular for coracle boat rides.",
+          "source": "hidden or famous list; verify before publishing"
+        },
+        {
+          "name": "Thirtamalai Hills",
+          "type": "hidden_gem",
+          "religion": null,
+          "why_famous": "A hill with a temple and views, mainly visited by local pilgrims.",
+          "source": "hidden or famous list; verify before publishing"
+        }
+      ]
+    },
+    {
+      "district": "Krishnagiri",
+      "region": "Western Tamil Nadu",
+      "place_count": 1,
+      "places": [
+        {
+          "name": "Krishnagiri Dam",
+          "type": "hidden_gem",
+          "religion": null,
+          "why_famous": "A reservoir with gardens near the town; local records should be checked.",
+          "source": "hidden or famous list; verify before publishing"
+        }
+      ]
+    },
+    {
+      "district": "Nilgiris",
+      "region": "Western Tamil Nadu",
+      "place_count": 2,
+      "places": [
+        {
+          "name": "Ooty Botanical Gardens",
+          "type": "famous",
+          "religion": null,
+          "why_famous": "A large botanical garden in Ooty, laid out in the 19th century.",
+          "source": "hidden or famous list; verify before publishing"
+        },
+        {
+          "name": "Doddabetta Peak",
+          "type": "famous",
+          "religion": null,
+          "why_famous": "The highest peak in the Nilgiris, with a viewpoint over the hills.",
+          "source": "hidden or famous list; verify before publishing"
+        }
+      ]
+    },
+    {
+      "district": "Karur",
+      "region": "Western Tamil Nadu",
+      "place_count": 2,
+      "places": [
+        {
+          "name": "Pasupatheeswarar Temple, Karur",
+          "type": "place of worship or heritage",
+          "religion": "Hinduism (Shaivism)",
+          "why_famous": "A Shaiva temple in Karur town with Chola-period origins and later additions; the town was an early centre of Chola-era trade.",
+          "source": "overall records"
+        },
+        {
+          "name": "Pasupatheeswarar Temple",
+          "type": "famous",
+          "religion": null,
+          "why_famous": "A Shaiva temple in Karur town, already covered in temple records.",
+          "source": "hidden or famous list; verify before publishing"
+        }
+      ]
+    },
+    {
+      "district": "Madurai",
+      "region": "Southern Tamil Nadu",
+      "place_count": 6,
+      "places": [
+        {
+          "name": "Alagar Kovil (Kallazhagar Temple)",
+          "type": "place of worship or heritage",
+          "religion": "Hinduism (Vaishnavism)",
+          "why_famous": "A Vaishnava Divya Desam on a hill near Madurai, with Pandya-period origins and later Nayak-era additions.",
+          "source": "overall records"
+        },
+        {
+          "name": "Arulmigu Meenakshi Sundareswarar Temple",
+          "type": "place of worship or heritage",
+          "religion": "Hinduism (Shaivism)",
+          "why_famous": "The temple complex developed over many centuries, and much of the present structure, including the large gopurams and the thousand-pillared hall, is generally attributed to the Nayak rulers of the 16th and 17th centuries.",
+          "source": "overall records"
+        },
+        {
+          "name": "Samanar Hills (Samanar Malai), near Madurai",
+          "type": "place of worship or heritage",
+          "religion": "Jainism",
+          "why_famous": "A hill site with rock-cut Jain beds and early Tamil-Brahmi inscriptions, commonly dated to the early centuries BCE to CE.",
+          "source": "overall records"
+        },
+        {
+          "name": "Thirupparankundram Murugan Temple",
+          "type": "place of worship or heritage",
+          "religion": "Hinduism (Murugan worship)",
+          "why_famous": "A Murugan temple cut partly into a hill, with rock-cut Pandya-period features and later additions.",
+          "source": "overall records"
+        },
+        {
+          "name": "Thirumalai Nayakar Mahal",
+          "type": "famous",
+          "religion": null,
+          "why_famous": "A 17th-century palace built by Thirumalai Nayak, with large pillars and an arched hall.",
+          "source": "hidden or famous list; verify before publishing"
+        },
+        {
+          "name": "Alagar Kovil",
+          "type": "hidden_gem",
+          "religion": null,
+          "why_famous": "A Vaishnava temple in the hills outside Madurai, with a quieter pilgrimage atmosphere.",
+          "source": "hidden or famous list; verify before publishing"
+        }
+      ]
+    },
+    {
+      "district": "Dindigul",
+      "region": "Southern Tamil Nadu",
+      "place_count": 5,
+      "places": [
+        {
+          "name": "Arulmigu Dhandayuthapani Swamy Temple, Palani",
+          "type": "place of worship or heritage",
+          "religion": "Hinduism (Shaivism, Murugan worship)",
+          "why_famous": "A major pilgrimage centre on a hill, with the temple recorded as an important Murugan shrine from the medieval period onward.",
+          "source": "overall records"
+        },
+        {
+          "name": "Kurinji Andavar Temple, Kodaikanal",
+          "type": "place of worship or heritage",
+          "religion": "Hinduism (Murugan worship)",
+          "why_famous": "A hill temple in Kodaikanal dedicated to Murugan in the form of the hill-region deity.",
+          "source": "overall records"
+        },
+        {
+          "name": "Kodaikanal Lake",
+          "type": "famous",
+          "religion": null,
+          "why_famous": "A man-made lake in a hill station, popular for boating and walks.",
+          "source": "hidden or famous list; verify before publishing"
+        },
+        {
+          "name": "Pillar Rocks (Kodaikanal)",
+          "type": "famous",
+          "religion": null,
+          "why_famous": "Tall rock pillars overlooking the valley, a well-known viewpoint near Kodaikanal.",
+          "source": "hidden or famous list; verify before publishing"
+        },
+        {
+          "name": "Coakers Walk (Kodaikanal)",
+          "type": "hidden_gem",
+          "religion": null,
+          "why_famous": "A cliffside walkway with views, quieter than the main lake area.",
+          "source": "hidden or famous list; verify before publishing"
+        }
+      ]
+    },
+    {
+      "district": "Theni",
+      "region": "Southern Tamil Nadu",
+      "place_count": 2,
+      "places": [
+        {
+          "name": "Megamalai Tea Estates",
+          "type": "hidden_gem",
+          "religion": null,
+          "why_famous": "Tea estates and hill views in the Western Ghats, reached by winding roads.",
+          "source": "hidden or famous list; verify before publishing"
+        },
+        {
+          "name": "Kumbakkarai Falls",
+          "type": "hidden_gem",
+          "religion": null,
+          "why_famous": "A waterfall near Kumily, a local favourite during the monsoon.",
+          "source": "hidden or famous list; verify before publishing"
+        }
+      ]
+    },
+    {
+      "district": "Sivaganga",
+      "region": "Southern Tamil Nadu",
+      "place_count": 4,
+      "places": [
+        {
+          "name": "Kalaiyarkoil Shiva Temple",
+          "type": "place of worship or heritage",
+          "religion": "Hinduism (Shaivism)",
+          "why_famous": "A Shaiva temple in Kalaiyarkoil with a regional tradition of worship; detailed dating should be verified.",
+          "source": "overall records"
+        },
+        {
+          "name": "Kundrakudi Murugan Temple",
+          "type": "place of worship or heritage",
+          "religion": "Hinduism (Murugan worship)",
+          "why_famous": "A hilltop Murugan temple in Sivaganga district, with an established local tradition of worship.",
+          "source": "overall records"
+        },
+        {
+          "name": "Chettinad Mansions",
+          "type": "famous",
+          "religion": null,
+          "why_famous": "The Chettiar mansions of Karaikudi, known for their Burma teak, Italian marble and courtyard architecture.",
+          "source": "hidden or famous list; verify before publishing"
+        },
+        {
+          "name": "Kundrakudi Murugan Temple",
+          "type": "hidden_gem",
+          "religion": null,
+          "why_famous": "A hilltop Murugan temple with a strong local following; details already in temple records.",
+          "source": "hidden or famous list; verify before publishing"
+        }
+      ]
+    },
+    {
+      "district": "Virudhunagar",
+      "region": "Southern Tamil Nadu",
+      "place_count": 2,
+      "places": [
+        {
+          "name": "Andal Temple, Srivilliputhur",
+          "type": "place of worship or heritage",
+          "religion": "Hinduism (Vaishnavism)",
+          "why_famous": "A Vaishnava temple dedicated to the Alvar saint Andal, with Pandya-period origins and later Nayak-era additions.",
+          "source": "overall records"
+        },
+        {
+          "name": "Srivilliputhur Andal Temple",
+          "type": "famous",
+          "religion": null,
+          "why_famous": "The Andal Temple, whose gopuram is the emblem of Tamil Nadu's government.",
+          "source": "hidden or famous list; verify before publishing"
+        }
+      ]
+    },
+    {
+      "district": "Ramanathapuram",
+      "region": "Southern Tamil Nadu",
+      "place_count": 4,
+      "places": [
+        {
+          "name": "Adi Jagannatha Perumal Temple, Thiruppullani",
+          "type": "place of worship or heritage",
+          "religion": "Hinduism (Vaishnavism)",
+          "why_famous": "A Vaishnava Divya Desam with Chola-era origins and later additions.",
+          "source": "overall records"
+        },
+        {
+          "name": "Arulmigu Ramanathaswamy Temple, Rameswaram",
+          "type": "place of worship or heritage",
+          "religion": "Hinduism (Shaivism)",
+          "why_famous": "The temple's present form, including the long pillared corridor, is generally attributed to building activity from the 17th to 18th centuries under the Setupathi rulers of Ramnad.",
+          "source": "overall records"
+        },
+        {
+          "name": "Dhanushkodi",
+          "type": "famous",
+          "religion": null,
+          "why_famous": "A ghost town at the island's tip, abandoned after the 1964 cyclone.",
+          "source": "hidden or famous list; verify before publishing"
+        },
+        {
+          "name": "Pamban Bridge",
+          "type": "famous",
+          "religion": null,
+          "why_famous": "A long railway bridge linking Rameswaram island to the mainland.",
+          "source": "hidden or famous list; verify before publishing"
+        }
+      ]
+    },
+    {
+      "district": "Thoothukudi",
+      "region": "Southern Tamil Nadu",
+      "place_count": 3,
+      "places": [
+        {
+          "name": "Arulmigu Subramaniya Swamy Temple, Thiruchendur",
+          "type": "place of worship or heritage",
+          "religion": "Hinduism (Shaivism, Murugan worship)",
+          "why_famous": "A coastal temple of Murugan with Tamil Sangam-era association in some literature, and a long history of rebuilding and patronage under South Indian dynasties.",
+          "source": "overall records"
+        },
+        {
+          "name": "Vaikuntanathar Temple, Tiruvaikuntam",
+          "type": "place of worship or heritage",
+          "religion": "Hinduism (Vaishnavism)",
+          "why_famous": "A Vaishnava Divya Desam in Thoothukudi district with Pandya and later additions.",
+          "source": "overall records"
+        },
+        {
+          "name": "Manapad Beach",
+          "type": "hidden_gem",
+          "religion": null,
+          "why_famous": "A quiet coastal village with a long beach near Thoothukudi.",
+          "source": "hidden or famous list; verify before publishing"
+        }
+      ]
+    },
+    {
+      "district": "Tirunelveli",
+      "region": "Southern Tamil Nadu",
+      "place_count": 3,
+      "places": [
+        {
+          "name": "Nellaiappar Temple, Tirunelveli",
+          "type": "place of worship or heritage",
+          "religion": "Hinduism (Shaivism)",
+          "why_famous": "A large Shaiva temple with Pandya-period origins and extensive Nayak-era pillared halls.",
+          "source": "overall records"
+        },
+        {
+          "name": "Papanasam Falls",
+          "type": "hidden_gem",
+          "religion": null,
+          "why_famous": "A waterfall near the Western Ghats, popular with pilgrims and families.",
+          "source": "hidden or famous list; verify before publishing"
+        },
+        {
+          "name": "Kalakkad Mundanthurai Tiger Reserve",
+          "type": "famous",
+          "religion": null,
+          "why_famous": "A tiger reserve in the Western Ghats with forest trails and wildlife.",
+          "source": "hidden or famous list; verify before publishing"
+        }
+      ]
+    },
+    {
+      "district": "Tenkasi",
+      "region": "Southern Tamil Nadu",
+      "place_count": 2,
+      "places": [
+        {
+          "name": "Kutralanathar Temple, Courtallam",
+          "type": "place of worship or heritage",
+          "religion": "Hinduism (Shaivism)",
+          "why_famous": "A Shaiva temple near the Courtallam falls, with Chola-period origins and later additions; the waterfalls are traditionally considered sacred.",
+          "source": "overall records"
+        },
+        {
+          "name": "Courtallam Waterfalls",
+          "type": "famous",
+          "religion": null,
+          "why_famous": "A set of waterfalls in the Western Ghats, historically considered healing by local tradition.",
+          "source": "hidden or famous list; verify before publishing"
+        }
+      ]
+    },
+    {
+      "district": "Kanniyakumari",
+      "region": "Southern Tamil Nadu",
+      "place_count": 4,
+      "places": [
+        {
+          "name": "Kanyakumari Bhagavathy Amman Temple",
+          "type": "place of worship or heritage",
+          "religion": "Hinduism (Shaktism)",
+          "why_famous": "A major Shakta temple at the southern tip of India, dedicated to the virgin goddess Kanyakumari.",
+          "source": "overall records"
+        },
+        {
+          "name": "Suchindram Thanumalayan Temple",
+          "type": "place of worship or heritage",
+          "religion": "Hinduism (Shaivism and Vaishnavism)",
+          "why_famous": "A temple combining Shaiva and Vaishnava shrines with a Trimurti image; Chola and later additions are recorded.",
+          "source": "overall records"
+        },
+        {
+          "name": "Vivekananda Rock Memorial",
+          "type": "famous",
+          "religion": null,
+          "why_famous": "A memorial on a rock islet, linked to Swami Vivekananda's meditation there in 1892.",
+          "source": "hidden or famous list; verify before publishing"
+        },
+        {
+          "name": "Thiruvalluvar Statue",
+          "type": "famous",
+          "religion": null,
+          "why_famous": "A tall statue of the Tamil poet Thiruvalluvar on an islet off the coast.",
+          "source": "hidden or famous list; verify before publishing"
+        }
+      ]
+    }
+  ],
+  "disclaimer": "Starter list. Verify names, descriptions, access, and opening times with official tourism and heritage sources before publishing."
+}

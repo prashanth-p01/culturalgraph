@@ -1,0 +1,339 @@
+{
+  "dataset": "CultureGraph — Tamil Nadu Famous Instruments and Music by District (starter)",
+  "version": "1.1",
+  "note": "Districts list the instruments, music forms, dances and festivals in the current data that are associated with that district. Statewide traditions are listed separately.",
+  "statewide_traditions": [
+    {
+      "name": "Nadaswaram and thavil",
+      "type": "instrument ensemble",
+      "why_famous": "The nadaswaram and thavil ensemble plays at temples, weddings and processions across the state."
+    },
+    {
+      "name": "Panchavadyam",
+      "type": "instrument ensemble",
+      "why_famous": "A temple ensemble of five instruments, used in processions and festivals."
+    },
+    {
+      "name": "Karakattam",
+      "type": "folk dance",
+      "why_famous": "A folk dance performed with a decorated pot on the head, linked to rain and harvest festivals across Tamil Nadu."
+    },
+    {
+      "name": "Kummi",
+      "type": "folk dance",
+      "why_famous": "A women's clap-and-circle folk dance performed in villages during festivals."
+    },
+    {
+      "name": "Kolattam",
+      "type": "folk dance",
+      "why_famous": "A stick dance performed in rhythmic patterns, often during festivals."
+    },
+    {
+      "name": "Oyilattam",
+      "type": "folk dance",
+      "why_famous": "A village group dance with rhythm and song, performed at festivals and gatherings."
+    },
+    {
+      "name": "Villupattu",
+      "type": "folk music",
+      "why_famous": "A storytelling tradition in which a musical bow is played while singing, with regional roots in southern Tamil Nadu."
+    },
+    {
+      "name": "Therukoothu",
+      "type": "folk theatre",
+      "why_famous": "Street theatre with music, dance and dialogue, performed in villages during festivals."
+    },
+    {
+      "name": "Kanjira",
+      "type": "instrument",
+      "why_famous": "A small frame drum widely used in Carnatic music and performances across the state."
+    }
+  ],
+  "districts": [
+    {
+      "district": "Chennai",
+      "region": "Northern Tamil Nadu",
+      "music_and_instruments": [
+        {
+          "name": "Chennai Music Season (December)",
+          "type": "festival",
+          "why_famous": "An annual season of concerts in Chennai, one of the largest Carnatic music gatherings in the world."
+        },
+        {
+          "name": "Gaana music",
+          "type": "music style",
+          "why_famous": "A folk-based music style from north Chennai, known for its lyrics about everyday life and popular among working-class audiences."
+        },
+        {
+          "name": "Parai drum",
+          "type": "instrument",
+          "why_famous": "A traditional drum used in folk festivals and community ceremonies in Tamil Nadu, with strong roots in the Chennai region."
+        }
+      ]
+    },
+    {
+      "district": "Tiruvallur",
+      "region": "Northern Tamil Nadu",
+      "music_and_instruments": [],
+      "note": "Pending research. No verified district-specific instruments or music are in the current data; statewide traditions apply."
+    },
+    {
+      "district": "Chengalpattu",
+      "region": "Northern Tamil Nadu",
+      "music_and_instruments": [],
+      "note": "Pending research. No verified district-specific instruments or music are in the current data; statewide traditions apply."
+    },
+    {
+      "district": "Kancheepuram",
+      "region": "Northern Tamil Nadu",
+      "music_and_instruments": [],
+      "note": "Pending research. No verified district-specific instruments or music are in the current data; statewide traditions apply."
+    },
+    {
+      "district": "Vellore",
+      "region": "Northern Tamil Nadu",
+      "music_and_instruments": [],
+      "note": "Pending research. No verified district-specific instruments or music are in the current data; statewide traditions apply."
+    },
+    {
+      "district": "Ranipet",
+      "region": "Northern Tamil Nadu",
+      "music_and_instruments": [],
+      "note": "Pending research. No verified district-specific instruments or music are in the current data; statewide traditions apply."
+    },
+    {
+      "district": "Tirupathur",
+      "region": "Northern Tamil Nadu",
+      "music_and_instruments": [],
+      "note": "Pending research. No verified district-specific instruments or music are in the current data; statewide traditions apply."
+    },
+    {
+      "district": "Tiruvannamalai",
+      "region": "Northern Tamil Nadu",
+      "music_and_instruments": [],
+      "note": "Pending research. No verified district-specific instruments or music are in the current data; statewide traditions apply."
+    },
+    {
+      "district": "Kallakurichi",
+      "region": "Northern Tamil Nadu",
+      "music_and_instruments": [],
+      "note": "Pending research. No verified district-specific instruments or music are in the current data; statewide traditions apply."
+    },
+    {
+      "district": "Villupuram",
+      "region": "Northern Tamil Nadu",
+      "music_and_instruments": [],
+      "note": "Pending research. No verified district-specific instruments or music are in the current data; statewide traditions apply."
+    },
+    {
+      "district": "Cuddalore",
+      "region": "Northern Tamil Nadu",
+      "music_and_instruments": [],
+      "note": "Pending research. No verified district-specific instruments or music are in the current data; statewide traditions apply."
+    },
+    {
+      "district": "Thanjavur",
+      "region": "Cauvery Delta",
+      "music_and_instruments": [
+        {
+          "name": "Thiruvaiyaru Thyagaraja Aradhana",
+          "type": "festival",
+          "why_famous": "Annual music festival held at Thiruvaiyaru in honour of the composer Thyagaraja, where Carnatic musicians gather to perform his compositions."
+        },
+        {
+          "name": "Tanjore Quartet",
+          "type": "music ensemble",
+          "why_famous": "A historic Bharatanatyam and music tradition from Thanjavur, known for its influence on dance and music styles."
+        },
+        {
+          "name": "Tanjore Veena tradition",
+          "type": "instrument",
+          "why_famous": "A regional school of the veena, associated with Thanjavur's court patronage and well known in Carnatic music."
+        },
+        {
+          "name": "Mridangam making in Thanjavur",
+          "type": "instrument craft",
+          "why_famous": "Thanjavur is a centre of mridangam (double-headed drum) craft, with families making instruments for performers."
+        }
+      ]
+    },
+    {
+      "district": "Thiruvarur",
+      "region": "Cauvery Delta",
+      "music_and_instruments": [],
+      "note": "Pending research. No verified district-specific instruments or music are in the current data; statewide traditions apply."
+    },
+    {
+      "district": "Nagapattinam",
+      "region": "Cauvery Delta",
+      "music_and_instruments": [],
+      "note": "Pending research. No verified district-specific instruments or music are in the current data; statewide traditions apply."
+    },
+    {
+      "district": "Mayiladuthurai",
+      "region": "Cauvery Delta",
+      "music_and_instruments": [
+        {
+          "name": "Nadaswaram tradition (Tiruvavaduthurai school)",
+          "type": "instrument",
+          "why_famous": "The nadaswaram, a double-reed wind instrument, is a central instrument of temple and wedding music, with famous players from this region."
+        }
+      ]
+    },
+    {
+      "district": "Tiruchirappalli",
+      "region": "Cauvery Delta",
+      "music_and_instruments": [],
+      "note": "Pending research. No verified district-specific instruments or music are in the current data; statewide traditions apply."
+    },
+    {
+      "district": "Ariyalur",
+      "region": "Cauvery Delta",
+      "music_and_instruments": [],
+      "note": "Pending research. No verified district-specific instruments or music are in the current data; statewide traditions apply."
+    },
+    {
+      "district": "Perambalur",
+      "region": "Cauvery Delta",
+      "music_and_instruments": [],
+      "note": "Pending research. No verified district-specific instruments or music are in the current data; statewide traditions apply."
+    },
+    {
+      "district": "Pudukkottai",
+      "region": "Cauvery Delta",
+      "music_and_instruments": [],
+      "note": "Pending research. No verified district-specific instruments or music are in the current data; statewide traditions apply."
+    },
+    {
+      "district": "Coimbatore",
+      "region": "Western Tamil Nadu",
+      "music_and_instruments": [],
+      "note": "Pending research. No verified district-specific instruments or music are in the current data; statewide traditions apply."
+    },
+    {
+      "district": "Tiruppur",
+      "region": "Western Tamil Nadu",
+      "music_and_instruments": [],
+      "note": "Pending research. No verified district-specific instruments or music are in the current data; statewide traditions apply."
+    },
+    {
+      "district": "Erode",
+      "region": "Western Tamil Nadu",
+      "music_and_instruments": [],
+      "note": "Pending research. No verified district-specific instruments or music are in the current data; statewide traditions apply."
+    },
+    {
+      "district": "Salem",
+      "region": "Western Tamil Nadu",
+      "music_and_instruments": [],
+      "note": "Pending research. No verified district-specific instruments or music are in the current data; statewide traditions apply."
+    },
+    {
+      "district": "Namakkal",
+      "region": "Western Tamil Nadu",
+      "music_and_instruments": [],
+      "note": "Pending research. No verified district-specific instruments or music are in the current data; statewide traditions apply."
+    },
+    {
+      "district": "Dharmapuri",
+      "region": "Western Tamil Nadu",
+      "music_and_instruments": [],
+      "note": "Pending research. No verified district-specific instruments or music are in the current data; statewide traditions apply."
+    },
+    {
+      "district": "Krishnagiri",
+      "region": "Western Tamil Nadu",
+      "music_and_instruments": [],
+      "note": "Pending research. No verified district-specific instruments or music are in the current data; statewide traditions apply."
+    },
+    {
+      "district": "Nilgiris",
+      "region": "Western Tamil Nadu",
+      "music_and_instruments": [
+        {
+          "name": "Toda ritual songs and music",
+          "type": "indigenous music tradition",
+          "why_famous": "The Toda community of the Nilgiris has a distinctive ritual song and music tradition that has been studied by ethnomusicologists; details should be verified with academic sources."
+        }
+      ]
+    },
+    {
+      "district": "Karur",
+      "region": "Western Tamil Nadu",
+      "music_and_instruments": [],
+      "note": "Pending research. No verified district-specific instruments or music are in the current data; statewide traditions apply."
+    },
+    {
+      "district": "Madurai",
+      "region": "Southern Tamil Nadu",
+      "music_and_instruments": [
+        {
+          "name": "Silambattam (stick fighting)",
+          "type": "martial art with music",
+          "why_famous": "A staff-fighting art from Tamil Nadu, traditionally performed with drums and music, with strong roots in Madurai."
+        }
+      ]
+    },
+    {
+      "district": "Dindigul",
+      "region": "Southern Tamil Nadu",
+      "music_and_instruments": [],
+      "note": "Pending research. No verified district-specific instruments or music are in the current data; statewide traditions apply."
+    },
+    {
+      "district": "Theni",
+      "region": "Southern Tamil Nadu",
+      "music_and_instruments": [],
+      "note": "Pending research. No verified district-specific instruments or music are in the current data; statewide traditions apply."
+    },
+    {
+      "district": "Sivaganga",
+      "region": "Southern Tamil Nadu",
+      "music_and_instruments": [
+        {
+          "name": "Manamadurai ghatam",
+          "type": "instrument",
+          "why_famous": "Ghatam (clay pot percussion) made in Manamadurai is widely used in Carnatic concerts across India."
+        }
+      ]
+    },
+    {
+      "district": "Virudhunagar",
+      "region": "Southern Tamil Nadu",
+      "music_and_instruments": [],
+      "note": "Pending research. No verified district-specific instruments or music are in the current data; statewide traditions apply."
+    },
+    {
+      "district": "Ramanathapuram",
+      "region": "Southern Tamil Nadu",
+      "music_and_instruments": [],
+      "note": "Pending research. No verified district-specific instruments or music are in the current data; statewide traditions apply."
+    },
+    {
+      "district": "Thoothukudi",
+      "region": "Southern Tamil Nadu",
+      "music_and_instruments": [],
+      "note": "Pending research. No verified district-specific instruments or music are in the current data; statewide traditions apply."
+    },
+    {
+      "district": "Tirunelveli",
+      "region": "Southern Tamil Nadu",
+      "music_and_instruments": [],
+      "note": "Pending research. No verified district-specific instruments or music are in the current data; statewide traditions apply."
+    },
+    {
+      "district": "Tenkasi",
+      "region": "Southern Tamil Nadu",
+      "music_and_instruments": [],
+      "note": "Pending research. No verified district-specific instruments or music are in the current data; statewide traditions apply."
+    },
+    {
+      "district": "Kanniyakumari",
+      "region": "Southern Tamil Nadu",
+      "music_and_instruments": [],
+      "note": "Pending research. No verified district-specific instruments or music are in the current data; statewide traditions apply."
+    }
+  ],
+  "districts_with_specific_items": 6,
+  "disclaimer": "Starter list from general knowledge. Verify names, origins, and why-famous details with music and cultural sources before publishing."
+}

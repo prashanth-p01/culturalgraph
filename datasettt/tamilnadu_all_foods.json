@@ -1,0 +1,740 @@
+{
+  "dataset": "CultureGraph — All Tamil Nadu Foods, with Reasons for Fame (starter, expanded)",
+  "version": "1.2",
+  "state": "Tamil Nadu, India",
+  "total_foods": 38,
+  "note": "This is the broadest list of Tamil Nadu foods in the project so far. It is not every regional dish in the state; many local specialities in each district still need research and verification.",
+  "foods": [
+    {
+      "id": "TN-FOOD-001",
+      "name": "Chettinad Chicken",
+      "category": "food",
+      "subcategory": "main course (non-veg)",
+      "origin_region": "Chettinad, Sivaganga district",
+      "key_ingredients": [
+        "chicken",
+        "black pepper",
+        "star anise",
+        "marathi mokku (stone flower)",
+        "dried red chillies",
+        "coconut",
+        "fennel seed"
+      ],
+      "why_famous": "Chettinad cuisine is known for its bold, aromatic spice blends, and this dish is the best-known example. The Chettiar community's home cooking and their trade links with Southeast Asia shaped the use of exotic spices like star anise and stone flower.",
+      "when_eaten": "weddings, festivals, and family gatherings",
+      "gi_status": "not claimed; verify before publishing",
+      "scope": "district-specific",
+      "associated_districts": [
+        "Sivaganga"
+      ]
+    },
+    {
+      "id": "TN-FOOD-002",
+      "name": "Madurai Jigarthanda",
+      "category": "food",
+      "subcategory": "drink (cold)",
+      "origin_region": "Madurai",
+      "key_ingredients": [
+        "milk",
+        "sarsaparilla root syrup (nannari)",
+        "almond gum (badam pisin)",
+        "ice cream or cream"
+      ],
+      "why_famous": "A cooling Madurai drink with a distinctive mix of milk, nannari syrup and almond gum. Its reputation spread across Tamil Nadu and it is widely called a signature of the city.",
+      "when_eaten": "summer and all year round",
+      "gi_status": "not claimed; verify before publishing",
+      "scope": "district-specific",
+      "associated_districts": [
+        "Madurai"
+      ]
+    },
+    {
+      "id": "TN-FOOD-003",
+      "name": "Madurai Kari Dosa (Kari Dosa)",
+      "category": "food",
+      "subcategory": "main course (non-veg)",
+      "origin_region": "Madurai",
+      "key_ingredients": [
+        "dosa batter",
+        "mutton or chicken keema",
+        "spices",
+        "onion",
+        "egg"
+      ],
+      "why_famous": "A dosa topped with spiced minced meat, which is a Madurai speciality. It is famous as a late-night street food and for combining a typical South Indian base with a strongly non-vegetarian filling.",
+      "when_eaten": "late evenings and nights",
+      "gi_status": "not claimed; verify before publishing",
+      "scope": "district-specific",
+      "associated_districts": [
+        "Madurai"
+      ]
+    },
+    {
+      "id": "TN-FOOD-004",
+      "name": "Ambur Mutton Biryani",
+      "category": "food",
+      "subcategory": "rice dish (non-veg)",
+      "origin_region": "Ambur, Tirupathur district",
+      "key_ingredients": [
+        "basmati or seeraga samba rice",
+        "mutton",
+        "curd",
+        "mint and coriander",
+        "green chillies"
+      ],
+      "why_famous": "Ambur is widely known for its biryani, made with short, fragrant rice and a light, spicy masala. It is among the best-known biryani styles in Tamil Nadu.",
+      "when_eaten": "celebrations and everyday meals",
+      "gi_status": "not claimed; verify before publishing",
+      "scope": "district-specific",
+      "associated_districts": [
+        "Tirupathur"
+      ]
+    },
+    {
+      "id": "TN-FOOD-005",
+      "name": "Dindigul Biryani",
+      "category": "food",
+      "subcategory": "rice dish (non-veg)",
+      "origin_region": "Dindigul",
+      "key_ingredients": [
+        "seeraga samba rice",
+        "mutton or chicken",
+        "spices",
+        "curd"
+      ],
+      "why_famous": "Dindigul biryani is well known for its own spice mix and the local seeraga samba rice. It is often compared with the Ambur and Trichy styles.",
+      "when_eaten": "celebrations and meals out",
+      "gi_status": "not claimed; verify before publishing",
+      "scope": "district-specific",
+      "associated_districts": [
+        "Dindigul"
+      ]
+    },
+    {
+      "id": "TN-FOOD-006",
+      "name": "Kumbakonam Degree Coffee",
+      "category": "food",
+      "subcategory": "drink (hot)",
+      "origin_region": "Kumbakonam, Thanjavur district",
+      "key_ingredients": [
+        "milk",
+        "coffee decoction",
+        "sugar"
+      ],
+      "why_famous": "Filter coffee is a daily ritual across Tamil Nadu, and Kumbakonam's version is especially well known. The frothy, strong coffee is poured between two vessels to mix and cool it.",
+      "when_eaten": "every day, often at breakfast and in the evening",
+      "gi_status": "not claimed; verify before publishing",
+      "scope": "district-specific",
+      "associated_districts": [
+        "Thanjavur"
+      ]
+    },
+    {
+      "id": "TN-FOOD-007",
+      "name": "Madras Filter Coffee",
+      "category": "food",
+      "subcategory": "drink (hot)",
+      "origin_region": "Chennai and the Tamil region",
+      "key_ingredients": [
+        "chicory-blended coffee powder",
+        "milk",
+        "sugar"
+      ],
+      "why_famous": "Filter coffee brewed in a metal decoction filter and mixed with frothed milk is a defining Tamil Nadu habit. It is served in homes, tea shops, and hotels across the state.",
+      "when_eaten": "daily, at any time",
+      "gi_status": "not claimed; verify before publishing",
+      "scope": "district-specific",
+      "associated_districts": [
+        "Chennai"
+      ]
+    },
+    {
+      "id": "TN-FOOD-008",
+      "name": "Pongal (Sakkarai Pongal and Ven Pongal)",
+      "category": "food",
+      "subcategory": "rice dish (vegetarian)",
+      "origin_region": "Tamil Nadu (statewide)",
+      "key_ingredients": [
+        "raw rice",
+        "moong dal",
+        "jaggery (sweet version)",
+        "ghee",
+        "cashews",
+        "black pepper and cumin (savoury version)"
+      ],
+      "why_famous": "Pongal is the traditional harvest dish cooked for the Pongal festival, which is the state's main harvest festival in January. The dish is cooked in the open and offered to the sun and to cattle.",
+      "when_eaten": "Pongal festival and other celebrations",
+      "gi_status": "not applicable",
+      "scope": "statewide",
+      "associated_districts": []
+    },
+    {
+      "id": "TN-FOOD-009",
+      "name": "Idli and Dosa",
+      "category": "food",
+      "subcategory": "breakfast (vegetarian)",
+      "origin_region": "Tamil Nadu (statewide)",
+      "key_ingredients": [
+        "parboiled rice",
+        "urad dal",
+        "fermented batter"
+      ],
+      "why_famous": "Fermented rice and lentil batter, shaped as idli or spread as dosa, is the everyday breakfast across Tamil Nadu. The fermented batter is valued for its digestibility and taste.",
+      "when_eaten": "breakfast and tiffin",
+      "gi_status": "not applicable",
+      "scope": "statewide",
+      "associated_districts": []
+    },
+    {
+      "id": "TN-FOOD-010",
+      "name": "Sambar and Rasam",
+      "category": "food",
+      "subcategory": "side dish (vegetarian)",
+      "origin_region": "Tamil Nadu (statewide)",
+      "key_ingredients": [
+        "toor dal (for sambar)",
+        "tamarind",
+        "vegetables",
+        "sambar powder",
+        "pepper and cumin (for rasam)"
+      ],
+      "why_famous": "Sambar, a lentil and vegetable stew, and rasam, a tangy pepper and tamarind broth, are served with rice in almost every Tamil household. Both are central to daily meals and are often considered Tamil Nadu's everyday signature.",
+      "when_eaten": "every day with rice and with breakfast",
+      "gi_status": "not applicable",
+      "scope": "statewide",
+      "associated_districts": []
+    },
+    {
+      "id": "TN-FOOD-011",
+      "name": "Kothu Parotta",
+      "category": "food",
+      "subcategory": "street food (vegetarian or non-veg)",
+      "origin_region": "Tamil Nadu (Madurai and Chennai street food)",
+      "key_ingredients": [
+        "parotta (layered flatbread)",
+        "egg or meat",
+        "onion",
+        "spices"
+      ],
+      "why_famous": "Chopped parotta is stir-fried on an iron griddle with egg or meat and spices, making a loud, popular street food. Its rhythmic chopping sound is part of its appeal.",
+      "when_eaten": "evenings and late nights",
+      "gi_status": "not applicable",
+      "scope": "district-specific",
+      "associated_districts": [
+        "Chennai",
+        "Madurai"
+      ]
+    },
+    {
+      "id": "TN-FOOD-012",
+      "name": "Tirunelveli Halwa",
+      "category": "food",
+      "subcategory": "sweet",
+      "origin_region": "Tirunelveli",
+      "key_ingredients": [
+        "wheat",
+        "ghee",
+        "sugar",
+        "cashews"
+      ],
+      "why_famous": "A sticky, rich halwa that is closely linked to Tirunelveli. It is commonly bought as a gift and is regarded as a special local sweet.",
+      "when_eaten": "festivals and as gifts",
+      "gi_status": "not claimed; verify before publishing",
+      "scope": "district-specific",
+      "associated_districts": [
+        "Tirunelveli"
+      ]
+    },
+    {
+      "id": "TN-FOOD-013",
+      "name": "Kovilpatti Kadalai Mittai",
+      "category": "food",
+      "subcategory": "sweet",
+      "origin_region": "Kovilpatti, Thoothukudi district",
+      "key_ingredients": [
+        "roasted groundnut",
+        "jaggery or sugar"
+      ],
+      "why_famous": "Groundnut candy, or peanut brittle, made in Kovilpatti and sold widely as a local speciality and gift item.",
+      "when_eaten": "festivals and as gifts",
+      "gi_status": "verify whether a GI tag applies before publishing",
+      "scope": "district-specific",
+      "associated_districts": [
+        "Thoothukudi"
+      ]
+    },
+    {
+      "id": "TN-FOOD-014",
+      "name": "Sathur Mullu Murukku",
+      "category": "food",
+      "subcategory": "snack",
+      "origin_region": "Sattur, Virudhunagar district",
+      "key_ingredients": [
+        "rice flour",
+        "urad dal",
+        "sesame",
+        "butter or oil",
+        "spices"
+      ],
+      "why_famous": "A crisp, thin murukku with a distinct local recipe, sold widely as a snack and gift item from Sattur.",
+      "when_eaten": "festivals and as snacks",
+      "gi_status": "not claimed; verify before publishing",
+      "scope": "district-specific",
+      "associated_districts": [
+        "Virudhunagar"
+      ]
+    },
+    {
+      "id": "TN-FOOD-015",
+      "name": "Thalappakatti Style Biryani",
+      "category": "food",
+      "subcategory": "rice dish (non-veg)",
+      "origin_region": "Trichy and Madurai style",
+      "key_ingredients": [
+        "seeraga samba or jeerakasala rice",
+        "chicken or mutton",
+        "spices",
+        "curd"
+      ],
+      "why_famous": "Thalappakatti-style biryani is known for its compact, aromatic rice and a strong, spicy masala, and it helped popularise the style across the state.",
+      "when_eaten": "meals out and celebrations",
+      "gi_status": "not claimed; verify before publishing",
+      "scope": "district-specific",
+      "associated_districts": [
+        "Tiruchirappalli",
+        "Madurai"
+      ]
+    },
+    {
+      "id": "TN-FOOD-016",
+      "name": "Chettinad Pepper Chicken",
+      "category": "food",
+      "subcategory": "main course (non-veg)",
+      "origin_region": "Chettinad, Sivaganga district",
+      "key_ingredients": [
+        "chicken",
+        "black pepper",
+        "curry leaves",
+        "onion",
+        "ginger and garlic"
+      ],
+      "why_famous": "A dry, peppery chicken fry from the Chettinad region, a simpler cousin of the richer Chettinad curries and a common dish across the state.",
+      "when_eaten": "meals and celebrations",
+      "gi_status": "not claimed; verify before publishing",
+      "scope": "district-specific",
+      "associated_districts": [
+        "Sivaganga"
+      ]
+    },
+    {
+      "id": "TN-FOOD-017",
+      "name": "Murukku (Thenkuzhal and Ribbon Murukku)",
+      "category": "food",
+      "subcategory": "snack",
+      "origin_region": "Tamil Nadu (statewide)",
+      "key_ingredients": [
+        "rice flour",
+        "urad dal",
+        "butter or oil",
+        "sesame",
+        "spices"
+      ],
+      "why_famous": "Crisp, spiral-shaped snacks made during festivals such as Deepavali and Pongal. They are a staple of Tamil homes and gifting.",
+      "when_eaten": "Deepavali, Pongal, and festivals",
+      "gi_status": "not applicable",
+      "scope": "statewide",
+      "associated_districts": []
+    },
+    {
+      "id": "TN-FOOD-018",
+      "name": "Paniyaram (Kuzhi Paniyaram)",
+      "category": "food",
+      "subcategory": "snack (vegetarian)",
+      "origin_region": "Tamil Nadu (statewide)",
+      "key_ingredients": [
+        "idli or dosa batter",
+        "onion",
+        "green chillies",
+        "curry leaves"
+      ],
+      "why_famous": "Small, round, cooked in a special pan with dimples. It is a popular breakfast and tea-time snack made from the same batter as idli and dosa.",
+      "when_eaten": "breakfast and tea time",
+      "gi_status": "not applicable",
+      "scope": "statewide",
+      "associated_districts": []
+    },
+    {
+      "id": "TN-FOOD-101",
+      "name": "Chettinad Fish Curry",
+      "category": "food",
+      "subcategory": "regional or everyday dish",
+      "origin_region": "Chettinad, Sivaganga district",
+      "key_ingredients": [
+        "fish",
+        "tamarind",
+        "black pepper",
+        "fennel",
+        "coconut"
+      ],
+      "why_famous": "A tangy, spicy fish curry from the Chettiar kitchens, valued for its bold masala and coastal flavour.",
+      "when_eaten": null,
+      "gi_status": "not claimed; verify before publishing",
+      "scope": "district-specific",
+      "associated_districts": [
+        "Sivaganga"
+      ]
+    },
+    {
+      "id": "TN-FOOD-102",
+      "name": "Kari Kuzhambu (Vegetable Curry with Tamarind)",
+      "category": "food",
+      "subcategory": "regional or everyday dish",
+      "origin_region": "Tamil Nadu (statewide)",
+      "key_ingredients": [
+        "drumstick or vegetables",
+        "tamarind",
+        "sambar powder",
+        "curry leaves"
+      ],
+      "why_famous": "A basic everyday tamarind-based vegetable gravy served with rice, central to Tamil daily meals.",
+      "when_eaten": null,
+      "gi_status": "not claimed; verify before publishing",
+      "scope": "statewide",
+      "associated_districts": []
+    },
+    {
+      "id": "TN-FOOD-103",
+      "name": "Mor Kuzhambu (Buttermilk Curry)",
+      "category": "food",
+      "subcategory": "regional or everyday dish",
+      "origin_region": "Tamil Nadu (statewide)",
+      "key_ingredients": [
+        "curd or buttermilk",
+        "coconut",
+        "cumin",
+        "vegetables (such as ash gourd)"
+      ],
+      "why_famous": "A mild, soothing curd-based curry, often made for festivals and served with rice.",
+      "when_eaten": null,
+      "gi_status": "not claimed; verify before publishing",
+      "scope": "statewide",
+      "associated_districts": []
+    },
+    {
+      "id": "TN-FOOD-104",
+      "name": "Vatha Kuzhambu",
+      "category": "food",
+      "subcategory": "regional or everyday dish",
+      "origin_region": "Tamil Nadu (statewide)",
+      "key_ingredients": [
+        "tamarind",
+        "sun-dried vegetables or dried dumplings",
+        "sesame or spices"
+      ],
+      "why_famous": "A tangy, long-keeping tamarind gravy that is often made in batches and reheated over days.",
+      "when_eaten": null,
+      "gi_status": "not claimed; verify before publishing",
+      "scope": "statewide",
+      "associated_districts": []
+    },
+    {
+      "id": "TN-FOOD-105",
+      "name": "Kootu",
+      "category": "food",
+      "subcategory": "regional or everyday dish",
+      "origin_region": "Tamil Nadu (statewide)",
+      "key_ingredients": [
+        "lentils",
+        "vegetables",
+        "coconut and cumin paste"
+      ],
+      "why_famous": "A mildly spiced lentil and vegetable dish with coconut, served with rice in everyday and festive meals.",
+      "when_eaten": null,
+      "gi_status": "not claimed; verify before publishing",
+      "scope": "statewide",
+      "associated_districts": []
+    },
+    {
+      "id": "TN-FOOD-106",
+      "name": "Poriyal",
+      "category": "food",
+      "subcategory": "regional or everyday dish",
+      "origin_region": "Tamil Nadu (statewide)",
+      "key_ingredients": [
+        "vegetables",
+        "coconut",
+        "mustard seeds",
+        "curry leaves"
+      ],
+      "why_famous": "A dry stir-fried vegetable dish with coconut, typically part of the traditional lunch thali.",
+      "when_eaten": null,
+      "gi_status": "not claimed; verify before publishing",
+      "scope": "statewide",
+      "associated_districts": []
+    },
+    {
+      "id": "TN-FOOD-107",
+      "name": "Avial",
+      "category": "food",
+      "subcategory": "regional or everyday dish",
+      "origin_region": "Tamil Nadu (statewide)",
+      "key_ingredients": [
+        "mixed vegetables",
+        "coconut",
+        "curd",
+        "coconut oil"
+      ],
+      "why_famous": "A mixed vegetable dish cooked in coconut and curd, served at weddings and festive meals.",
+      "when_eaten": null,
+      "gi_status": "not claimed; verify before publishing",
+      "scope": "statewide",
+      "associated_districts": []
+    },
+    {
+      "id": "TN-FOOD-108",
+      "name": "Puli Sadam (Tamarind Rice)",
+      "category": "food",
+      "subcategory": "regional or everyday dish",
+      "origin_region": "Tamil Nadu (statewide)",
+      "key_ingredients": [
+        "cooked rice",
+        "tamarind",
+        "sesame oil",
+        "peanuts",
+        "mustard seeds"
+      ],
+      "why_famous": "A tangy tamarind rice that is a common temple prasadam and a travel food across Tamil Nadu.",
+      "when_eaten": null,
+      "gi_status": "not claimed; verify before publishing",
+      "scope": "statewide",
+      "associated_districts": []
+    },
+    {
+      "id": "TN-FOOD-109",
+      "name": "Lemon Rice",
+      "category": "food",
+      "subcategory": "regional or everyday dish",
+      "origin_region": "Tamil Nadu (statewide)",
+      "key_ingredients": [
+        "cooked rice",
+        "lemon juice",
+        "mustard seeds",
+        "peanuts",
+        "turmeric"
+      ],
+      "why_famous": "A quick, tangy rice dish popular for lunch boxes and travel.",
+      "when_eaten": null,
+      "gi_status": "not claimed; verify before publishing",
+      "scope": "statewide",
+      "associated_districts": []
+    },
+    {
+      "id": "TN-FOOD-110",
+      "name": "Thayir Sadam (Curd Rice)",
+      "category": "food",
+      "subcategory": "regional or everyday dish",
+      "origin_region": "Tamil Nadu (statewide)",
+      "key_ingredients": [
+        "cooked rice",
+        "curd",
+        "mustard seeds",
+        "curry leaves"
+      ],
+      "why_famous": "A cooling curd rice that ends most Tamil meals and is eaten in hot weather.",
+      "when_eaten": null,
+      "gi_status": "not claimed; verify before publishing",
+      "scope": "statewide",
+      "associated_districts": []
+    },
+    {
+      "id": "TN-FOOD-111",
+      "name": "Kozhi Kuzhambu (Chicken Curry)",
+      "category": "food",
+      "subcategory": "regional or everyday dish",
+      "origin_region": "Tamil Nadu (statewide)",
+      "key_ingredients": [
+        "chicken",
+        "onion",
+        "tomato",
+        "coconut paste",
+        "spices"
+      ],
+      "why_famous": "A home-style chicken curry that is a regular Sunday and festive dish across Tamil Nadu.",
+      "when_eaten": null,
+      "gi_status": "not claimed; verify before publishing",
+      "scope": "statewide",
+      "associated_districts": []
+    },
+    {
+      "id": "TN-FOOD-112",
+      "name": "Mutton Sukka",
+      "category": "food",
+      "subcategory": "regional or everyday dish",
+      "origin_region": "Tamil Nadu (statewide)",
+      "key_ingredients": [
+        "mutton",
+        "onion",
+        "coconut",
+        "dry roasted spices"
+      ],
+      "why_famous": "A dry mutton fry with roasted spices, served as a side dish or starter at restaurants and homes.",
+      "when_eaten": null,
+      "gi_status": "not claimed; verify before publishing",
+      "scope": "statewide",
+      "associated_districts": []
+    },
+    {
+      "id": "TN-FOOD-113",
+      "name": "Meen Kuzhambu (Fish Curry)",
+      "category": "food",
+      "subcategory": "regional or everyday dish",
+      "origin_region": "Tamil Nadu (coastal districts)",
+      "key_ingredients": [
+        "fish",
+        "tamarind",
+        "fenugreek",
+        "shallots"
+      ],
+      "why_famous": "A tangy fish curry that is a staple along the coastal districts and a favourite with rice.",
+      "when_eaten": null,
+      "gi_status": "not claimed; verify before publishing",
+      "scope": "statewide",
+      "associated_districts": []
+    },
+    {
+      "id": "TN-FOOD-114",
+      "name": "Nethili Fry (Anchovy Fry)",
+      "category": "food",
+      "subcategory": "regional or everyday dish",
+      "origin_region": "Tamil Nadu (coastal districts)",
+      "key_ingredients": [
+        "anchovies",
+        "chilli powder",
+        "turmeric",
+        "curry leaves"
+      ],
+      "why_famous": "Small crisp-fried anchovies, sold along the coast and eaten as a snack or side dish.",
+      "when_eaten": null,
+      "gi_status": "not claimed; verify before publishing",
+      "scope": "statewide",
+      "associated_districts": []
+    },
+    {
+      "id": "TN-FOOD-115",
+      "name": "Ragi Koozh (Finger Millet Porridge)",
+      "category": "food",
+      "subcategory": "regional or everyday dish",
+      "origin_region": "Tamil Nadu (statewide)",
+      "key_ingredients": [
+        "finger millet flour",
+        "buttermilk",
+        "salt",
+        "onion"
+      ],
+      "why_famous": "A cooling millet porridge eaten in summer and valued for its nutritional reputation.",
+      "when_eaten": null,
+      "gi_status": "not claimed; verify before publishing",
+      "scope": "statewide",
+      "associated_districts": []
+    },
+    {
+      "id": "TN-FOOD-116",
+      "name": "Kambu Koozh (Pearl Millet Porridge)",
+      "category": "food",
+      "subcategory": "regional or everyday dish",
+      "origin_region": "Tamil Nadu (statewide)",
+      "key_ingredients": [
+        "pearl millet",
+        "buttermilk",
+        "onion",
+        "green chilli"
+      ],
+      "why_famous": "A traditional millet porridge eaten in hot weather, especially in rural and western regions.",
+      "when_eaten": null,
+      "gi_status": "not claimed; verify before publishing",
+      "scope": "statewide",
+      "associated_districts": []
+    },
+    {
+      "id": "TN-FOOD-117",
+      "name": "Iruttukadai Halwa",
+      "category": "food",
+      "subcategory": "regional or everyday dish",
+      "origin_region": "Tirunelveli",
+      "key_ingredients": [
+        "wheat",
+        "ghee",
+        "sugar",
+        "cashews"
+      ],
+      "why_famous": "A rich, chewy halwa from Tirunelveli that is often bought as a gift and sold as a city speciality.",
+      "when_eaten": null,
+      "gi_status": "not claimed; verify before publishing",
+      "scope": "district-specific",
+      "associated_districts": [
+        "Tirunelveli"
+      ]
+    },
+    {
+      "id": "TN-FOOD-118",
+      "name": "Virudhunagar Parotta",
+      "category": "food",
+      "subcategory": "regional or everyday dish",
+      "origin_region": "Virudhunagar",
+      "key_ingredients": [
+        "maida flour",
+        "oil",
+        "salna (spiced gravy)"
+      ],
+      "why_famous": "Layered, flaky parottas served with a spicy salna, a popular roadside meal in the district.",
+      "when_eaten": null,
+      "gi_status": "not claimed; verify before publishing",
+      "scope": "district-specific",
+      "associated_districts": [
+        "Virudhunagar"
+      ]
+    },
+    {
+      "id": "TN-FOOD-119",
+      "name": "Kanchipuram Idli",
+      "category": "food",
+      "subcategory": "regional or everyday dish",
+      "origin_region": "Kanchipuram",
+      "key_ingredients": [
+        "rice",
+        "urad dal",
+        "ghee",
+        "cumin",
+        "black pepper"
+      ],
+      "why_famous": "Soft idlis tempered with ghee, cumin and pepper, linked to the Kanchipuram temple tradition.",
+      "when_eaten": null,
+      "gi_status": "not claimed; verify before publishing",
+      "scope": "district-specific",
+      "associated_districts": [
+        "Kancheepuram"
+      ]
+    },
+    {
+      "id": "TN-FOOD-120",
+      "name": "Pepper Chicken (Madurai style)",
+      "category": "food",
+      "subcategory": "regional or everyday dish",
+      "origin_region": "Madurai",
+      "key_ingredients": [
+        "chicken",
+        "black pepper",
+        "curry leaves",
+        "onion"
+      ],
+      "why_famous": "A peppery dry chicken fry popular in Madurai's restaurants and homes.",
+      "when_eaten": null,
+      "gi_status": "not claimed; verify before publishing",
+      "scope": "district-specific",
+      "associated_districts": [
+        "Madurai"
+      ]
+    }
+  ],
+  "disclaimer": "Verify origin, preparation details and GI status with local sources and official authorities before publishing."
+}

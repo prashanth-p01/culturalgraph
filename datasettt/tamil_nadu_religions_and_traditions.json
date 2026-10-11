@@ -1,0 +1,273 @@
+{
+  "state": "Tamil Nadu",
+  "country": "India",
+  "dataset_name": "CultureGraph - Religions and Traditions Starter Dataset",
+  "note": "This is a starter taxonomy of religions, denominations, movements, and local traditions to seed CultureGraph. It is not an official census list, and the entries are not all the same type of category. Verify local presence and sources before treating any tradition as present in a specific district.",
+  "religions_and_traditions": [
+    {
+      "religion_name": "Hinduism",
+      "category_type": "religion",
+      "branches_and_traditions": [
+        {
+          "name": "Shaivism",
+          "category_type": "tradition"
+        },
+        {
+          "name": "Vaishnavism",
+          "category_type": "tradition"
+        },
+        {
+          "name": "Shaktism",
+          "category_type": "tradition"
+        },
+        {
+          "name": "Smartism",
+          "category_type": "tradition"
+        },
+        {
+          "name": "Ayyavazhi",
+          "category_type": "religious movement/tradition"
+        },
+        {
+          "name": "Ayyanar worship",
+          "category_type": "local worship tradition"
+        },
+        {
+          "name": "Amman worship",
+          "category_type": "local worship tradition"
+        },
+        {
+          "name": "Murugan worship",
+          "category_type": "devotional tradition"
+        },
+        {
+          "name": "Mariamman worship",
+          "category_type": "local worship tradition"
+        },
+        {
+          "name": "Siddhar traditions",
+          "category_type": "spiritual tradition"
+        },
+        {
+          "name": "Village guardian-deity traditions",
+          "category_type": "local worship tradition"
+        }
+      ]
+    },
+    {
+      "religion_name": "Christianity",
+      "category_type": "religion",
+      "branches_and_traditions": [
+        {
+          "name": "Roman Catholic",
+          "category_type": "church tradition"
+        },
+        {
+          "name": "Syro-Malabar Catholic",
+          "category_type": "Eastern Catholic church"
+        },
+        {
+          "name": "Syro-Malankara Catholic",
+          "category_type": "Eastern Catholic church"
+        },
+        {
+          "name": "Church of South India (CSI)",
+          "category_type": "united Protestant church"
+        },
+        {
+          "name": "Church of North India (CNI)",
+          "category_type": "united Protestant church"
+        },
+        {
+          "name": "Eastern Orthodox",
+          "category_type": "church tradition"
+        },
+        {
+          "name": "Jacobite Syrian Christian",
+          "category_type": "church tradition"
+        },
+        {
+          "name": "Pentecostal",
+          "category_type": "movement/tradition"
+        },
+        {
+          "name": "Baptist",
+          "category_type": "denomination"
+        },
+        {
+          "name": "Methodist",
+          "category_type": "denomination/tradition"
+        },
+        {
+          "name": "Lutheran",
+          "category_type": "denomination/tradition"
+        },
+        {
+          "name": "Seventh-day Adventist",
+          "category_type": "denomination"
+        },
+        {
+          "name": "Anglican",
+          "category_type": "church tradition"
+        },
+        {
+          "name": "Evangelical and independent churches",
+          "category_type": "broad church grouping"
+        }
+      ]
+    },
+    {
+      "religion_name": "Islam",
+      "category_type": "religion",
+      "branches_and_traditions": [
+        {
+          "name": "Sunni",
+          "category_type": "branch"
+        },
+        {
+          "name": "Shia",
+          "category_type": "branch"
+        },
+        {
+          "name": "Sufi traditions",
+          "category_type": "spiritual traditions"
+        },
+        {
+          "name": "Ahmadiyya",
+          "category_type": "religious movement"
+        }
+      ]
+    },
+    {
+      "religion_name": "Jainism",
+      "category_type": "religion",
+      "branches_and_traditions": [
+        {
+          "name": "Digambara",
+          "category_type": "branch"
+        },
+        {
+          "name": "Shvetambara",
+          "category_type": "branch"
+        },
+        {
+          "name": "Tamil Jain heritage traditions",
+          "category_type": "regional heritage tradition"
+        }
+      ]
+    },
+    {
+      "religion_name": "Buddhism",
+      "category_type": "religion",
+      "branches_and_traditions": [
+        {
+          "name": "Theravada",
+          "category_type": "branch"
+        },
+        {
+          "name": "Mahayana",
+          "category_type": "branch"
+        },
+        {
+          "name": "Vajrayana",
+          "category_type": "branch"
+        },
+        {
+          "name": "Tamil Buddhist historical traditions",
+          "category_type": "regional historical tradition"
+        }
+      ]
+    },
+    {
+      "religion_name": "Sikhism",
+      "category_type": "religion",
+      "branches_and_traditions": [
+        {
+          "name": "Mainstream Sikh tradition",
+          "category_type": "tradition"
+        },
+        {
+          "name": "Historical and regional Sikh communities",
+          "category_type": "community grouping"
+        }
+      ]
+    },
+    {
+      "religion_name": "Zoroastrianism",
+      "category_type": "religion",
+      "branches_and_traditions": [
+        {
+          "name": "Parsi community traditions",
+          "category_type": "community tradition"
+        },
+        {
+          "name": "Other Zoroastrian traditions",
+          "category_type": "tradition"
+        }
+      ]
+    },
+    {
+      "religion_name": "Judaism",
+      "category_type": "religion",
+      "branches_and_traditions": [
+        {
+          "name": "Jewish religious traditions and communities",
+          "category_type": "broad grouping"
+        }
+      ]
+    },
+    {
+      "religion_name": "Baháʼí Faith",
+      "category_type": "religion",
+      "branches_and_traditions": []
+    },
+    {
+      "religion_name": "Indigenous, folk, and local religious traditions",
+      "category_type": "broad category; not one single religion",
+      "branches_and_traditions": [
+        {
+          "name": "Village deity traditions",
+          "category_type": "local tradition"
+        },
+        {
+          "name": "Ancestor veneration",
+          "category_type": "practice; include only where locally documented"
+        },
+        {
+          "name": "Community-specific ritual traditions",
+          "category_type": "local tradition; document with community context"
+        }
+      ]
+    },
+    {
+      "religion_name": "Other religions and spiritual traditions",
+      "category_type": "open category",
+      "branches_and_traditions": [
+        {
+          "name": "Other locally documented religious communities",
+          "category_type": "open category"
+        }
+      ]
+    },
+    {
+      "religion_name": "Religion not stated / unspecified",
+      "category_type": "census response category",
+      "branches_and_traditions": []
+    }
+  ],
+  "suggested_record_fields": [
+    "id",
+    "religion_name",
+    "category_type",
+    "branch_or_tradition_name",
+    "district",
+    "town_or_village",
+    "description",
+    "historical_context",
+    "source_title",
+    "source_url",
+    "license",
+    "last_verified",
+    "review_status"
+  ]
+}

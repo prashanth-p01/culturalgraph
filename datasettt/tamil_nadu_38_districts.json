@@ -1,0 +1,160 @@
+{
+  "state": "Tamil Nadu",
+  "country": "India",
+  "total_districts": 38,
+  "source": "https://lokbhavan.tn.gov.in/districts-of-tamil-nadu/",
+  "districts": [
+    {
+      "district_id": 1,
+      "district_name": "Ariyalur"
+    },
+    {
+      "district_id": 2,
+      "district_name": "Chengalpattu"
+    },
+    {
+      "district_id": 3,
+      "district_name": "Chennai"
+    },
+    {
+      "district_id": 4,
+      "district_name": "Coimbatore"
+    },
+    {
+      "district_id": 5,
+      "district_name": "Cuddalore"
+    },
+    {
+      "district_id": 6,
+      "district_name": "Dharmapuri"
+    },
+    {
+      "district_id": 7,
+      "district_name": "Dindigul"
+    },
+    {
+      "district_id": 8,
+      "district_name": "Erode"
+    },
+    {
+      "district_id": 9,
+      "district_name": "Kallakurichi"
+    },
+    {
+      "district_id": 10,
+      "district_name": "Kancheepuram"
+    },
+    {
+      "district_id": 11,
+      "district_name": "Karur"
+    },
+    {
+      "district_id": 12,
+      "district_name": "Krishnagiri"
+    },
+    {
+      "district_id": 13,
+      "district_name": "Madurai"
+    },
+    {
+      "district_id": 14,
+      "district_name": "Mayiladuthurai"
+    },
+    {
+      "district_id": 15,
+      "district_name": "Nagapattinam"
+    },
+    {
+      "district_id": 16,
+      "district_name": "Kanniyakumari"
+    },
+    {
+      "district_id": 17,
+      "district_name": "Namakkal"
+    },
+    {
+      "district_id": 18,
+      "district_name": "Perambalur"
+    },
+    {
+      "district_id": 19,
+      "district_name": "Pudukkottai"
+    },
+    {
+      "district_id": 20,
+      "district_name": "Ramanathapuram"
+    },
+    {
+      "district_id": 21,
+      "district_name": "Ranipet"
+    },
+    {
+      "district_id": 22,
+      "district_name": "Salem"
+    },
+    {
+      "district_id": 23,
+      "district_name": "Sivaganga"
+    },
+    {
+      "district_id": 24,
+      "district_name": "Tenkasi"
+    },
+    {
+      "district_id": 25,
+      "district_name": "Thanjavur"
+    },
+    {
+      "district_id": 26,
+      "district_name": "Theni"
+    },
+    {
+      "district_id": 27,
+      "district_name": "Thoothukudi"
+    },
+    {
+      "district_id": 28,
+      "district_name": "Tiruchirappalli"
+    },
+    {
+      "district_id": 29,
+      "district_name": "Tirunelveli"
+    },
+    {
+      "district_id": 30,
+      "district_name": "Tirupathur"
+    },
+    {
+      "district_id": 31,
+      "district_name": "Tiruppur"
+    },
+    {
+      "district_id": 32,
+      "district_name": "Tiruvallur"
+    },
+    {
+      "district_id": 33,
+      "district_name": "Tiruvannamalai"
+    },
+    {
+      "district_id": 34,
+      "district_name": "Tiruvarur"
+    },
+    {
+      "district_id": 35,
+      "district_name": "Vellore"
+    },
+    {
+      "district_id": 36,
+      "district_name": "Viluppuram"
+    },
+    {
+      "district_id": 37,
+      "district_name": "Virudhunagar"
+    },
+    {
+      "district_id": 38,
+      "district_name": "The Nilgiris"
+    }
+  ]
+}

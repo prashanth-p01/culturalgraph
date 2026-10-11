@@ -1,0 +1,2619 @@
+{
+  "dataset": "CultureGraph Tamil Nadu — All Religions, Overall Directory (starter)",
+  "version": "0.3",
+  "note": "History is split into 'documented' (archaeological, epigraphic, or well-established scholarly record) and 'tradition_or_folklore' (community belief, oral tradition, sthala purana). Opening hours are null until verified. Coordinates are approximate city-centre points and must be validated before display. Please confirm all details with the temple, HR&CE, or Tamil Nadu Archaeology Department before publishing.",
+  "total_records": 73,
+  "religion_counts": {
+    "Hinduism (Shaivism)": 28,
+    "Christianity (Roman Catholic)": 1,
+    "Buddhism": 1,
+    "Islam (Sufi dargah)": 1,
+    "Hinduism (Vaishnavism)": 13,
+    "Jainism": 3,
+    "Hinduism (tirtha)": 1,
+    "Hinduism (Murugan worship)": 8,
+    "Hinduism (Ganesha worship)": 1,
+    "Hinduism (Shaivism and Vaishnavism)": 2,
+    "Christianity": 2,
+    "Islam": 1,
+    "Hinduism (Shaktism)": 3,
+    "Hinduism (Advaita spiritual tradition)": 1,
+    "Hinduism (Lakshmi worship)": 1,
+    "Hinduism (Shaivism, Murugan worship)": 2,
+    "Indigenous, folk and local religious traditions": 1,
+    "Indigenous and folk traditions (ancestor and hero veneration)": 1,
+    "Hinduism (modern Shaiva spiritual centre)": 1,
+    "Hinduism (Hanuman worship)": 1
+  },
+  "religions_pending_records": [
+    "bahai_faith",
+    "judaism",
+    "religion_not_stated",
+    "sikhism",
+    "zoroastrianism_parsi"
+  ],
+  "regions": [
+    {
+      "region": "Northern Tamil Nadu",
+      "districts": [
+        "Chennai",
+        "Tiruvallur",
+        "Chengalpattu",
+        "Kancheepuram",
+        "Vellore",
+        "Ranipet",
+        "Tirupathur",
+        "Tiruvannamalai",
+        "Kallakurichi",
+        "Villupuram",
+        "Cuddalore"
+      ]
+    },
+    {
+      "region": "Cauvery Delta",
+      "districts": [
+        "Thanjavur",
+        "Thiruvarur",
+        "Nagapattinam",
+        "Mayiladuthurai",
+        "Tiruchirappalli",
+        "Ariyalur",
+        "Perambalur",
+        "Pudukkottai"
+      ]
+    },
+    {
+      "region": "Western Tamil Nadu",
+      "districts": [
+        "Coimbatore",
+        "Tiruppur",
+        "Erode",
+        "Salem",
+        "Namakkal",
+        "Dharmapuri",
+        "Krishnagiri",
+        "Nilgiris",
+        "Karur"
+      ]
+    },
+    {
+      "region": "Southern Tamil Nadu",
+      "districts": [
+        "Madurai",
+        "Dindigul",
+        "Theni",
+        "Sivaganga",
+        "Virudhunagar",
+        "Ramanathapuram",
+        "Thoothukudi",
+        "Tirunelveli",
+        "Tenkasi",
+        "Kanniyakumari"
+      ]
+    }
+  ],
+  "district_coverage": [
+    {
+      "district": "Chennai",
+      "region": "Northern Tamil Nadu",
+      "records": 3,
+      "status": "starter records added"
+    },
+    {
+      "district": "Tiruvallur",
+      "region": "Northern Tamil Nadu",
+      "records": 2,
+      "status": "starter records added"
+    },
+    {
+      "district": "Chengalpattu",
+      "region": "Northern Tamil Nadu",
+      "records": 3,
+      "status": "starter records added"
+    },
+    {
+      "district": "Kancheepuram",
+      "region": "Northern Tamil Nadu",
+      "records": 4,
+      "status": "starter records added"
+    },
+    {
+      "district": "Vellore",
+      "region": "Northern Tamil Nadu",
+      "records": 2,
+      "status": "starter records added"
+    },
+    {
+      "district": "Ranipet",
+      "region": "Northern Tamil Nadu",
+      "records": 1,
+      "status": "starter records added"
+    },
+    {
+      "district": "Tirupathur",
+      "region": "Northern Tamil Nadu",
+      "records": 0,
+      "status": "pending"
+    },
+    {
+      "district": "Tiruvannamalai",
+      "region": "Northern Tamil Nadu",
+      "records": 2,
+      "status": "starter records added"
+    },
+    {
+      "district": "Kallakurichi",
+      "region": "Northern Tamil Nadu",
+      "records": 1,
+      "status": "starter records added"
+    },
+    {
+      "district": "Villupuram",
+      "region": "Northern Tamil Nadu",
+      "records": 1,
+      "status": "starter records added"
+    },
+    {
+      "district": "Cuddalore",
+      "region": "Northern Tamil Nadu",
+      "records": 3,
+      "status": "starter records added"
+    },
+    {
+      "district": "Thanjavur",
+      "region": "Cauvery Delta",
+      "records": 5,
+      "status": "starter records added"
+    },
+    {
+      "district": "Thiruvarur",
+      "region": "Cauvery Delta",
+      "records": 2,
+      "status": "starter records added"
+    },
+    {
+      "district": "Nagapattinam",
+      "region": "Cauvery Delta",
+      "records": 4,
+      "status": "starter records added"
+    },
+    {
+      "district": "Mayiladuthurai",
+      "region": "Cauvery Delta",
+      "records": 2,
+      "status": "starter records added"
+    },
+    {
+      "district": "Tiruchirappalli",
+      "region": "Cauvery Delta",
+      "records": 3,
+      "status": "starter records added"
+    },
+    {
+      "district": "Ariyalur",
+      "region": "Cauvery Delta",
+      "records": 1,
+      "status": "starter records added"
+    },
+    {
+      "district": "Perambalur",
+      "region": "Cauvery Delta",
+      "records": 0,
+      "status": "pending"
+    },
+    {
+      "district": "Pudukkottai",
+      "region": "Cauvery Delta",
+      "records": 3,
+      "status": "starter records added"
+    },
+    {
+      "district": "Coimbatore",
+      "region": "Western Tamil Nadu",
+      "records": 2,
+      "status": "starter records added"
+    },
+    {
+      "district": "Tiruppur",
+      "region": "Western Tamil Nadu",
+      "records": 1,
+      "status": "starter records added"
+    },
+    {
+      "district": "Erode",
+      "region": "Western Tamil Nadu",
+      "records": 1,
+      "status": "starter records added"
+    },
+    {
+      "district": "Salem",
+      "region": "Western Tamil Nadu",
+      "records": 2,
+      "status": "starter records added"
+    },
+    {
+      "district": "Namakkal",
+      "region": "Western Tamil Nadu",
+      "records": 1,
+      "status": "starter records added"
+    },
+    {
+      "district": "Dharmapuri",
+      "region": "Western Tamil Nadu",
+      "records": 0,
+      "status": "pending"
+    },
+    {
+      "district": "Krishnagiri",
+      "region": "Western Tamil Nadu",
+      "records": 0,
+      "status": "pending"
+    },
+    {
+      "district": "Nilgiris",
+      "region": "Western Tamil Nadu",
+      "records": 0,
+      "status": "pending"
+    },
+    {
+      "district": "Karur",
+      "region": "Western Tamil Nadu",
+      "records": 1,
+      "status": "starter records added"
+    },
+    {
+      "district": "Madurai",
+      "region": "Southern Tamil Nadu",
+      "records": 3,
+      "status": "starter records added"
+    },
+    {
+      "district": "Dindigul",
+      "region": "Southern Tamil Nadu",
+      "records": 2,
+      "status": "starter records added"
+    },
+    {
+      "district": "Theni",
+      "region": "Southern Tamil Nadu",
+      "records": 0,
+      "status": "pending"
+    },
+    {
+      "district": "Sivaganga",
+      "region": "Southern Tamil Nadu",
+      "records": 2,
+      "status": "starter records added"
+    },
+    {
+      "district": "Virudhunagar",
+      "region": "Southern Tamil Nadu",
+      "records": 1,
+      "status": "starter records added"
+    },
+    {
+      "district": "Ramanathapuram",
+      "region": "Southern Tamil Nadu",
+      "records": 2,
+      "status": "starter records added"
+    },
+    {
+      "district": "Thoothukudi",
+      "region": "Southern Tamil Nadu",
+      "records": 2,
+      "status": "starter records added"
+    },
+    {
+      "district": "Tirunelveli",
+      "region": "Southern Tamil Nadu",
+      "records": 1,
+      "status": "starter records added"
+    },
+    {
+      "district": "Tenkasi",
+      "region": "Southern Tamil Nadu",
+      "records": 1,
+      "status": "starter records added"
+    },
+    {
+      "district": "Kanniyakumari",
+      "region": "Southern Tamil Nadu",
+      "records": 2,
+      "status": "starter records added"
+    }
+  ],
+  "records": [
+    {
+      "place_id": "TN-HIN-0003",
+      "name": "Gangaikondacholisvaram Temple (Brihadeeswarar, Gangaikonda Cholapuram)",
+      "religion": "Hinduism (Shaivism)",
+      "site_type": "temple",
+      "region": "Cauvery Delta",
+      "district": "Ariyalur",
+      "address": "Gangaikonda Cholapuram",
+      "special_deity_or_focus": "Shiva; commemorates Rajendra Chola I's northern campaigns",
+      "coordinates": {
+        "latitude": 11.2305,
+        "longitude": 79.3567,
+        "status": "approximate"
+      },
+      "opening_time": null,
+      "closing_time": null,
+      "hours_verified": false,
+      "last_verified": null,
+      "history": {
+        "documented": [
+          "Built by Rajendra Chola I in the early 11th century as a new Chola capital and temple, named to commemorate his campaigns to the north, and part of the UNESCO-listed Great Living Chola Temples."
+        ],
+        "tradition_or_folklore": []
+      },
+      "statue_or_idol_history": {
+        "main_idol": "Lingam in the sanctum, with Chola-period sculpture on the walls and entrances.",
+        "documented": "Chola-period bronzes and stone sculptures from the site are recorded in archaeological literature. Verify holdings with Tamil Nadu Archaeology.",
+        "tradition_or_folklore": null
+      },
+      "sources_to_check": [
+        "https://www.tnarch.gov.in/monuments_gos"
+      ]
+    },
+    {
+      "place_id": "TN-DIST-MAYILA-001",
+      "name": "Mayuranathaswamy Temple, Mayiladuthurai",
+      "religion": "Hinduism (Shaivism)",
+      "site_type": "temple",
+      "region": "Cauvery Delta",
+      "district": "Mayiladuthurai",
+      "address": null,
+      "special_deity_or_focus": "Shiva as Mayuranathar (peacock form)",
+      "coordinates": null,
+      "opening_time": null,
+      "closing_time": null,
+      "hours_verified": false,
+      "last_verified": null,
+      "history": {
+        "documented": [
+          "A Shaiva temple in Mayiladuthurai, one of the Padal Petra Sthalam shrines, with Chola-period building."
+        ],
+        "tradition_or_folklore": [
+          "Tradition says Parvati took the form of a peacock to worship Shiva here, giving the town its name."
+        ]
+      },
+      "statue_or_idol_history": {
+        "main_idol": "Shiva as Mayuranathar (peacock form)",
+        "documented": null,
+        "tradition_or_folklore": null
+      },
+      "sources_to_check": [
+        "https://hrce.tn.gov.in/hrcehome/temple_list.php"
+      ]
+    },
+    {
+      "place_id": "TN-DIST-MAYILA-002",
+      "name": "Thiruvavaduthurai Mahalingeswarar Temple and Adheenam",
+      "religion": "Hinduism (Shaivism)",
+      "site_type": "temple and monastery",
+      "region": "Cauvery Delta",
+      "district": "Mayiladuthurai",
+      "address": null,
+      "special_deity_or_focus": "Shiva (Mahalingeswarar)",
+      "coordinates": null,
+      "opening_time": null,
+      "closing_time": null,
+      "hours_verified": false,
+      "last_verified": null,
+      "history": {
+        "documented": [
+          "A major Shaiva temple with an adjoining Shaiva monastery (adheenam) that has been active for centuries."
+        ],
+        "tradition_or_folklore": []
+      },
+      "statue_or_idol_history": {
+        "main_idol": "Shiva (Mahalingeswarar)",
+        "documented": null,
+        "tradition_or_folklore": null
+      },
+      "sources_to_check": [
+        "https://hrce.tn.gov.in/hrcehome/temple_list.php"
+      ]
+    },
+    {
+      "place_id": "TN-CHR-0001",
+      "name": "Basilica of Our Lady of Good Health, Velankanni",
+      "religion": "Christianity (Roman Catholic)",
+      "site_type": "church (basilica)",
+      "region": "Cauvery Delta",
+      "district": "Nagapattinam",
+      "address": "Velankanni",
+      "special_deity_or_focus": "Our Lady of Good Health (Mary)",
+      "coordinates": {
+        "latitude": 10.681,
+        "longitude": 79.843,
+        "status": "approximate"
+      },
+      "opening_time": null,
+      "closing_time": null,
+      "hours_verified": false,
+      "last_verified": null,
+      "history": {
+        "documented": [
+          "The present basilica was built in the 20th century, and the shrine is a major Catholic pilgrimage centre in South Asia."
+        ],
+        "tradition_or_folklore": [
+          "Devotional accounts describe a 16th-century event in which a Portuguese sailor, or a child, is said to have been healed, after which a shrine was established at Velankanni. These are community accounts and should be presented as belief."
+        ]
+      },
+      "statue_or_idol_history": {
+        "main_idol": "Statue of Our Lady of Good Health in the basilica.",
+        "documented": "Details of the current statue's origin should be verified with the basilica administration.",
+        "tradition_or_folklore": "The belief that the statue carries healing power is devotional tradition."
+      },
+      "sources_to_check": []
+    },
+    {
+      "place_id": "TN-DIST-NAGAPA-001",
+      "name": "Naganathaswamy Temple, Nagapattinam",
+      "religion": "Hinduism (Shaivism)",
+      "site_type": "temple",
+      "region": "Cauvery Delta",
+      "district": "Nagapattinam",
+      "address": null,
+      "special_deity_or_focus": "Shiva (Naganathaswamy)",
+      "coordinates": null,
+      "opening_time": null,
+      "closing_time": null,
+      "hours_verified": false,
+      "last_verified": null,
+      "history": {
+        "documented": [
+          "A Shaiva temple in Nagapattinam town, built and extended under Chola patronage, with later Nayak-era building."
+        ],
+        "tradition_or_folklore": []
+      },
+      "statue_or_idol_history": {
+        "main_idol": "Shiva (Naganathaswamy)",
+        "documented": null,
+        "tradition_or_folklore": null
+      },
+      "sources_to_check": [
+        "https://hrce.tn.gov.in/hrcehome/temple_list.php"
+      ]
+    },
+    {
+      "place_id": "TN-BUD-0001",
+      "name": "Nagapattinam Buddhist heritage (Chudamani Vihara)",
+      "religion": "Buddhism",
+      "site_type": "monastery (heritage)",
+      "region": "Cauvery Delta",
+      "district": "Nagapattinam",
+      "address": null,
+      "special_deity_or_focus": "Buddhist monastic heritage",
+      "coordinates": null,
+      "opening_time": null,
+      "closing_time": null,
+      "hours_verified": false,
+      "last_verified": null,
+      "history": {
+        "documented": [
+          "Nagapattinam was a historic Buddhist centre in medieval records, with a monastery linked to Chola-era patronage; the exact building history should be verified."
+        ],
+        "tradition_or_folklore": []
+      },
+      "statue_or_idol_history": {
+        "main_idol": "Buddhist monastic heritage",
+        "documented": "Record details pending verification with Tamil Nadu Archaeology.",
+        "tradition_or_folklore": null
+      },
+      "sources_to_check": []
+    },
+    {
+      "place_id": "TN-ISL-0001",
+      "name": "Nagore Dargah (Hazrat Shahul Hameed Dargah)",
+      "religion": "Islam (Sufi dargah)",
+      "site_type": "dargah",
+      "region": "Cauvery Delta",
+      "district": "Nagapattinam",
+      "address": "Nagore, near Nagapattinam",
+      "special_deity_or_focus": "Hazrat Shahul Hameed (Sufi saint)",
+      "coordinates": {
+        "latitude": 10.819,
+        "longitude": 79.843,
+        "status": "approximate"
+      },
+      "opening_time": null,
+      "closing_time": null,
+      "hours_verified": false,
+      "last_verified": null,
+      "history": {
+        "documented": [
+          "The dargah is generally dated to the 16th century and is a major site of Sufi devotion in South India, with a large mausoleum and architecture that blends Islamic and regional Tamil styles.",
+          "The dargah is the site of an annual festival that draws Muslims and people of other faiths."
+        ],
+        "tradition_or_folklore": [
+          "Devotional accounts describe the saint's life and miracles, which are part of the community's oral tradition."
+        ]
+      },
+      "statue_or_idol_history": {
+        "main_idol": null,
+        "documented": "The tomb (mazar) of the saint is the central object of veneration. There is no idol.",
+        "tradition_or_folklore": null
+      },
+      "sources_to_check": []
+    },
+    {
+      "place_id": "TN-DIST-NAGAPA-002",
+      "name": "Soundararajaperumal Temple, Nagapattinam",
+      "religion": "Hinduism (Vaishnavism)",
+      "site_type": "temple",
+      "region": "Cauvery Delta",
+      "district": "Nagapattinam",
+      "address": null,
+      "special_deity_or_focus": "Soundararaja (Vishnu)",
+      "coordinates": null,
+      "opening_time": null,
+      "closing_time": null,
+      "hours_verified": false,
+      "last_verified": null,
+      "history": {
+        "documented": [
+          "A Vaishnava temple in Nagapattinam with Chola-era origins and later additions; details should be verified."
+        ],
+        "tradition_or_folklore": []
+      },
+      "statue_or_idol_history": {
+        "main_idol": "Soundararaja (Vishnu)",
+        "documented": null,
+        "tradition_or_folklore": null
+      },
+      "sources_to_check": [
+        "https://hrce.tn.gov.in/hrcehome/temple_list.php"
+      ]
+    },
+    {
+      "place_id": "TN-DIST-PUDUKK-002",
+      "name": "Brahmapureeswarar Temple, Thirukokarnam",
+      "religion": "Hinduism (Shaivism)",
+      "site_type": "temple",
+      "region": "Cauvery Delta",
+      "district": "Pudukkottai",
+      "address": null,
+      "special_deity_or_focus": "Shiva (Brahmapureeswarar)",
+      "coordinates": null,
+      "opening_time": null,
+      "closing_time": null,
+      "hours_verified": false,
+      "last_verified": null,
+      "history": {
+        "documented": [
+          "A Shaiva temple in Pudukkottai district with Pallava and Chola-era origins, noted for its rock-cut shrine."
+        ],
+        "tradition_or_folklore": []
+      },
+      "statue_or_idol_history": {
+        "main_idol": "Shiva (Brahmapureeswarar)",
+        "documented": null,
+        "tradition_or_folklore": null
+      },
+      "sources_to_check": [
+        "https://hrce.tn.gov.in/hrcehome/temple_list.php"
+      ]
+    },
+    {
+      "place_id": "TN-DIST-PUDUKK-001",
+      "name": "Sittannavasal Cave Temple",
+      "religion": "Jainism",
+      "site_type": "heritage site (cave temple)",
+      "region": "Cauvery Delta",
+      "district": "Pudukkottai",
+      "address": null,
+      "special_deity_or_focus": "Jain tirthankaras",
+      "coordinates": null,
+      "opening_time": null,
+      "closing_time": null,
+      "hours_verified": false,
+      "last_verified": null,
+      "history": {
+        "documented": [
+          "Covered in the main records above; a Jain rock-cut cave with Tamil-Brahmi inscriptions and Pandya-period frescoes."
+        ],
+        "tradition_or_folklore": []
+      },
+      "statue_or_idol_history": {
+        "main_idol": "Jain tirthankaras",
+        "documented": null,
+        "tradition_or_folklore": null
+      },
+      "sources_to_check": [
+        "https://hrce.tn.gov.in/hrcehome/temple_list.php"
+      ]
+    },
+    {
+      "place_id": "TN-JAI-0001",
+      "name": "Sittannavasal Cave Temple (Arivar Koil)",
+      "religion": "Jainism",
+      "site_type": "heritage site (cave temple)",
+      "region": "Cauvery Delta",
+      "district": "Pudukkottai",
+      "address": "Sittannavasal, near Pudukkottai",
+      "special_deity_or_focus": "Jain tirthankaras and monks; rock-cut cave with stone beds",
+      "coordinates": {
+        "latitude": 10.5,
+        "longitude": 78.7,
+        "status": "approximate"
+      },
+      "opening_time": null,
+      "closing_time": null,
+      "hours_verified": false,
+      "last_verified": null,
+      "history": {
+        "documented": [
+          "A rock-cut Jain cave with Tamil-Brahmi inscriptions in the cave, commonly dated to the 2nd century BCE to 1st century CE, indicating early Jain presence in the Tamil region.",
+          "The painted ceiling and walls are Pandya-period frescoes, commonly dated to around the 9th century CE."
+        ],
+        "tradition_or_folklore": []
+      },
+      "statue_or_idol_history": {
+        "main_idol": "Rock-cut carved tirthankara images and stone beds for monks.",
+        "documented": "Frescoes and carvings are documented by archaeological surveys and are a protected monument.",
+        "tradition_or_folklore": null
+      },
+      "sources_to_check": [
+        "https://www.tnarch.gov.in/monuments_gos"
+      ]
+    },
+    {
+      "place_id": "TN-HIN-0004",
+      "name": "Airavatesvara Temple, Darasuram",
+      "religion": "Hinduism (Shaivism)",
+      "site_type": "temple",
+      "region": "Cauvery Delta",
+      "district": "Thanjavur",
+      "address": "Darasuram",
+      "special_deity_or_focus": "Airavatesvara (Shiva)",
+      "coordinates": {
+        "latitude": 10.9494,
+        "longitude": 79.3427,
+        "status": "approximate"
+      },
+      "opening_time": null,
+      "closing_time": null,
+      "hours_verified": false,
+      "last_verified": null,
+      "history": {
+        "documented": [
+          "Built during the reign of Rajaraja Chola II in the 12th century, and part of the UNESCO-listed Great Living Chola Temples.",
+          "The temple is known for its finely carved sculptural panels, including scenes that depict episodes from Shaiva and Chola-era narratives."
+        ],
+        "tradition_or_folklore": [
+          "Local tradition connects the name Airavatesvara with the white elephant Airavata worshipping Shiva at the site."
+        ]
+      },
+      "statue_or_idol_history": {
+        "main_idol": "Lingam in the sanctum.",
+        "documented": "Stone sculptures and panels are the main artistic record and are studied by scholars of Chola art.",
+        "tradition_or_folklore": null
+      },
+      "sources_to_check": [
+        "https://www.tnarch.gov.in/monuments_gos"
+      ]
+    },
+    {
+      "place_id": "TN-HIN-0002",
+      "name": "Arulmigu Brihadeeswarar Temple",
+      "religion": "Hinduism (Shaivism)",
+      "site_type": "temple",
+      "region": "Cauvery Delta",
+      "district": "Thanjavur",
+      "address": "Thanjavur city",
+      "special_deity_or_focus": "Brihadeeswarar (Shiva)",
+      "coordinates": {
+        "latitude": 10.7828,
+        "longitude": 79.1318,
+        "status": "approximate"
+      },
+      "opening_time": null,
+      "closing_time": null,
+      "hours_verified": false,
+      "last_verified": null,
+      "history": {
+        "documented": [
+          "Built by Raja Raja Chola I and generally dated to completion around 1010 CE. It is a UNESCO World Heritage Site as part of the Great Living Chola Temples.",
+          "The vimana (main tower) is among the tallest of its period, and the temple is noted for its large inscriptions that record endowments and administration under the Cholas."
+        ],
+        "tradition_or_folklore": [
+          "Local tradition associates the temple with the Chola king's devotion to Shiva and his wish to build a grand temple to the deity."
+        ]
+      },
+      "statue_or_idol_history": {
+        "main_idol": "The main lingam is the central object of worship in the sanctum.",
+        "documented": "The monolithic Nandi at the entrance is a notable sculpture, commonly described as carved from a single granite block, roughly 13 feet high and 16 feet long. The Nandi is generally dated to the same Chola period as the temple.",
+        "tradition_or_folklore": null
+      },
+      "sources_to_check": [
+        "https://www.tnarch.gov.in/monuments_gos"
+      ]
+    },
+    {
+      "place_id": "TN-DIST-THANJA-002",
+      "name": "Mahamaham Tank, Kumbakonam",
+      "religion": "Hinduism (tirtha)",
+      "site_type": "sacred tank",
+      "region": "Cauvery Delta",
+      "district": "Thanjavur",
+      "address": null,
+      "special_deity_or_focus": "Mahamaham festival",
+      "coordinates": null,
+      "opening_time": null,
+      "closing_time": null,
+      "hours_verified": false,
+      "last_verified": null,
+      "history": {
+        "documented": [
+          "A large sacred tank in Kumbakonam, the site of the Mahamaham festival held once every twelve years."
+        ],
+        "tradition_or_folklore": [
+          "Tradition links the tank with the Kumbh-like gathering of rivers in the sacred waters."
+        ]
+      },
+      "statue_or_idol_history": {
+        "main_idol": "Mahamaham festival",
+        "documented": null,
+        "tradition_or_folklore": null
+      },
+      "sources_to_check": [
+        "https://hrce.tn.gov.in/hrcehome/temple_list.php"
+      ]
+    },
+    {
+      "place_id": "TN-DIST-THANJA-001",
+      "name": "Sarangapani Temple, Kumbakonam",
+      "religion": "Hinduism (Vaishnavism)",
+      "site_type": "temple",
+      "region": "Cauvery Delta",
+      "district": "Thanjavur",
+      "address": null,
+      "special_deity_or_focus": "Sarangapani (Vishnu)",
+      "coordinates": null,
+      "opening_time": null,
+      "closing_time": null,
+      "hours_verified": false,
+      "last_verified": null,
+      "history": {
+        "documented": [
+          "A Vaishnava Divya Desam with Nayak-era gopurams and pillared halls."
+        ],
+        "tradition_or_folklore": []
+      },
+      "statue_or_idol_history": {
+        "main_idol": "Sarangapani (Vishnu)",
+        "documented": null,
+        "tradition_or_folklore": null
+      },
+      "sources_to_check": [
+        "https://hrce.tn.gov.in/hrcehome/temple_list.php"
+      ]
+    },
+    {
+      "place_id": "TN-HIN-0015",
+      "name": "Swaminathaswamy Temple, Swamimalai",
+      "religion": "Hinduism (Murugan worship)",
+      "site_type": "temple",
+      "region": "Cauvery Delta",
+      "district": "Thanjavur",
+      "address": "Swamimalai, near Kumbakonam",
+      "special_deity_or_focus": "Swaminathaswamy (Murugan as teacher of Shiva)",
+      "coordinates": {
+        "latitude": 10.9536,
+        "longitude": 79.334,
+        "status": "approximate"
+      },
+      "opening_time": null,
+      "closing_time": null,
+      "hours_verified": false,
+      "last_verified": null,
+      "history": {
+        "documented": [
+          "The temple is one of the six abodes of Murugan (Arupadai Veedu). The town is known as a centre of traditional bronze-casting by hereditary sthapati (sculptor) families, a craft that continues today."
+        ],
+        "tradition_or_folklore": [
+          "The temple is associated with the story of Murugan instructing his father Shiva in the meaning of the sacred syllable Om, which is how the deity is named Swaminatha, teacher of the Lord."
+        ]
+      },
+      "statue_or_idol_history": {
+        "main_idol": "The Swaminathaswamy idol in the sanctum.",
+        "documented": "Swamimalai is documented as a centre of traditional panchaloha (five-metal) bronze casting using lost-wax methods, which is a living craft tradition supplying temple and museum images.",
+        "tradition_or_folklore": "The belief that the main idol was made or consecrated by divine action is devotional tradition."
+      },
+      "sources_to_check": [
+        "https://hrce.tn.gov.in/hrcehome/temple_list.php"
+      ]
+    },
+    {
+      "place_id": "TN-HIN-0007",
+      "name": "Arulmigu Thyagaraja Swamy Temple, Thiruvarur",
+      "religion": "Hinduism (Shaivism)",
+      "site_type": "temple",
+      "region": "Cauvery Delta",
+      "district": "Thiruvarur",
+      "address": "Thiruvarur town",
+      "special_deity_or_focus": "Thyagaraja (Shiva); Vanmeekanathar",
+      "coordinates": {
+        "latitude": 10.7726,
+        "longitude": 79.6368,
+        "status": "approximate"
+      },
+      "opening_time": null,
+      "closing_time": null,
+      "hours_verified": false,
+      "last_verified": null,
+      "history": {
+        "documented": [
+          "An ancient temple with Chola-period additions, and one of the 'Padal Petra Sthalam' shrines praised in the Tamil Shaiva hymns.",
+          "The temple is known for its very large chariot (ther), which is among the largest in South India."
+        ],
+        "tradition_or_folklore": [
+          "Local tradition holds that the deity is among the most important in the Shaiva tradition, and the temple's sthala purana describes Shiva's presence at this site from very early times."
+        ]
+      },
+      "statue_or_idol_history": {
+        "main_idol": "Thyagaraja form of Shiva, and a shrine to Vanmeekanathar.",
+        "documented": "The temple's chariot and sculptural elements are documented in regional studies. Verify dates with HR&CE.",
+        "tradition_or_folklore": null
+      },
+      "sources_to_check": [
+        "https://hrce.tn.gov.in/hrcehome/temple_list.php"
+      ]
+    },
+    {
+      "place_id": "TN-DIST-THIRUV-001",
+      "name": "Bhaktavatsalaperumal Temple, Thirukannamangai",
+      "religion": "Hinduism (Vaishnavism)",
+      "site_type": "temple",
+      "region": "Cauvery Delta",
+      "district": "Thiruvarur",
+      "address": null,
+      "special_deity_or_focus": "Bhaktavatsala (Vishnu)",
+      "coordinates": null,
+      "opening_time": null,
+      "closing_time": null,
+      "hours_verified": false,
+      "last_verified": null,
+      "history": {
+        "documented": [
+          "A Vaishnava Divya Desam in Thiruvarur district with Chola-period and later additions."
+        ],
+        "tradition_or_folklore": []
+      },
+      "statue_or_idol_history": {
+        "main_idol": "Bhaktavatsala (Vishnu)",
+        "documented": null,
+        "tradition_or_folklore": null
+      },
+      "sources_to_check": [
+        "https://hrce.tn.gov.in/hrcehome/temple_list.php"
+      ]
+    },
+    {
+      "place_id": "TN-HIN-0005",
+      "name": "Arulmigu Ranganathaswamy Temple, Srirangam",
+      "religion": "Hinduism (Vaishnavism)",
+      "site_type": "temple",
+      "region": "Cauvery Delta",
+      "district": "Tiruchirappalli",
+      "address": "Srirangam, Tiruchirappalli",
+      "special_deity_or_focus": "Ranganatha (reclining Vishnu)",
+      "coordinates": {
+        "latitude": 10.8625,
+        "longitude": 78.6897,
+        "status": "approximate"
+      },
+      "opening_time": null,
+      "closing_time": null,
+      "hours_verified": false,
+      "last_verified": null,
+      "history": {
+        "documented": [
+          "One of the largest functioning temple complexes in India, with layers of construction from the Chola, Pandya, Hoysala, and Vijayanagara periods.",
+          "It is one of the 108 Divya Desams, the shrines praised in the hymns of the Alvar saints."
+        ],
+        "tradition_or_folklore": [
+          "Tradition holds that the image of Ranganatha was worshipped in ancient times by Lord Brahma and by the Ikshvaku king and was later installed here."
+        ]
+      },
+      "statue_or_idol_history": {
+        "main_idol": "The reclining Ranganatha image in the sanctum, which is a central object of Sri Vaishnava devotion.",
+        "documented": "The sanctum and surrounding shrines contain inscriptions and sculpture from several dynasties. Specifics should be verified against published epigraphic surveys.",
+        "tradition_or_folklore": "Accounts of the image's origin, including its story of being rediscovered and worshipped by kings, are devotional tradition."
+      },
+      "sources_to_check": [
+        "https://hrce.tn.gov.in/hrcehome/temple_list.php"
+      ]
+    },
+    {
+      "place_id": "TN-DIST-TIRUCH-001",
+      "name": "Jambukeswarar Temple, Thiruvanaikaval",
+      "religion": "Hinduism (Shaivism)",
+      "site_type": "temple",
+      "region": "Cauvery Delta",
+      "district": "Tiruchirappalli",
+      "address": null,
+      "special_deity_or_focus": "Shiva as Appu (water) lingam",
+      "coordinates": null,
+      "opening_time": null,
+      "closing_time": null,
+      "hours_verified": false,
+      "last_verified": null,
+      "history": {
+        "documented": [
+          "A large Shaiva temple with Chola-period origins and later Nayak-era additions; one of the Pancha Bhoota sthalams."
+        ],
+        "tradition_or_folklore": [
+          "The water lingam is believed to be fed by a spring, which devotees regard as miraculous."
+        ]
+      },
+      "statue_or_idol_history": {
+        "main_idol": "Shiva as Appu (water) lingam",
+        "documented": null,
+        "tradition_or_folklore": null
+      },
+      "sources_to_check": [
+        "https://hrce.tn.gov.in/hrcehome/temple_list.php"
+      ]
+    },
+    {
+      "place_id": "TN-DIST-TIRUCH-002",
+      "name": "Rockfort Uchi Pillayar Temple",
+      "religion": "Hinduism (Ganesha worship)",
+      "site_type": "temple (rock)",
+      "region": "Cauvery Delta",
+      "district": "Tiruchirappalli",
+      "address": null,
+      "special_deity_or_focus": "Ganesha",
+      "coordinates": null,
+      "opening_time": null,
+      "closing_time": null,
+      "hours_verified": false,
+      "last_verified": null,
+      "history": {
+        "documented": [
+          "A Ganesha shrine on the rock summit of Tiruchirappalli, with rock-cut Pallava-period features and later Nayak-era additions."
+        ],
+        "tradition_or_folklore": []
+      },
+      "statue_or_idol_history": {
+        "main_idol": "Ganesha",
+        "documented": null,
+        "tradition_or_folklore": null
+      },
+      "sources_to_check": [
+        "https://hrce.tn.gov.in/hrcehome/temple_list.php"
+      ]
+    },
+    {
+      "place_id": "TN-DIST-CHENGA-002",
+      "name": "Kandaswamy Temple, Thiruporur",
+      "religion": "Hinduism (Murugan worship)",
+      "site_type": "temple",
+      "region": "Northern Tamil Nadu",
+      "district": "Chengalpattu",
+      "address": null,
+      "special_deity_or_focus": "Murugan",
+      "coordinates": null,
+      "opening_time": null,
+      "closing_time": null,
+      "hours_verified": false,
+      "last_verified": null,
+      "history": {
+        "documented": [
+          "A Murugan shrine in Thiruporur, noted in local records as a site of historic patronage; dates should be verified."
+        ],
+        "tradition_or_folklore": []
+      },
+      "statue_or_idol_history": {
+        "main_idol": "Murugan",
+        "documented": null,
+        "tradition_or_folklore": null
+      },
+      "sources_to_check": [
+        "https://hrce.tn.gov.in/hrcehome/temple_list.php"
+      ]
+    },
+    {
+      "place_id": "TN-HIN-0014",
+      "name": "Shore Temple, Mamallapuram",
+      "religion": "Hinduism (Shaivism and Vaishnavism)",
+      "site_type": "temple (heritage monument)",
+      "region": "Northern Tamil Nadu",
+      "district": "Chengalpattu",
+      "address": "Mamallapuram (Mahabalipuram)",
+      "special_deity_or_focus": "Shiva and Vishnu shrines",
+      "coordinates": {
+        "latitude": 12.6169,
+        "longitude": 80.199,
+        "status": "approximate"
+      },
+      "opening_time": null,
+      "closing_time": null,
+      "hours_verified": false,
+      "last_verified": null,
+      "history": {
+        "documented": [
+          "Built in the Pallava period, generally dated to the early 8th century during the reign of Rajasimha. It is a UNESCO World Heritage Site as part of the Group of Monuments at Mamallapuram.",
+          "The structure is carved from granite and is among the earliest surviving stone temples in South India built in the structural style."
+        ],
+        "tradition_or_folklore": [
+          "Local folklore relates a legend of a submerged city, which is part of popular tradition rather than documented history."
+        ]
+      },
+      "statue_or_idol_history": {
+        "main_idol": "Shiva and Vishnu shrines, with sculptures of deities in the niches.",
+        "documented": "The sculptures are recorded in art-historical and archaeological studies of the Pallava period.",
+        "tradition_or_folklore": "The submerged-city legend is folklore and is not documented."
+      },
+      "sources_to_check": [
+        "https://www.tnarch.gov.in/monuments_gos"
+      ]
+    },
+    {
+      "place_id": "TN-DIST-CHENGA-001",
+      "name": "Vedagirishwarar Temple, Thirukkalukundram",
+      "religion": "Hinduism (Shaivism)",
+      "site_type": "temple (hill)",
+      "region": "Northern Tamil Nadu",
+      "district": "Chengalpattu",
+      "address": null,
+      "special_deity_or_focus": "Shiva (Vedagirishwarar)",
+      "coordinates": null,
+      "opening_time": null,
+      "closing_time": null,
+      "hours_verified": false,
+      "last_verified": null,
+      "history": {
+        "documented": [
+          "A hill temple with rock-cut Pallava-period features; the hilltop shrine is traditionally associated with a ritual of eagles."
+        ],
+        "tradition_or_folklore": [
+          "Local tradition describes sacred eagles visiting the shrine, which is a devotional practice."
+        ]
+      },
+      "statue_or_idol_history": {
+        "main_idol": "Shiva (Vedagirishwarar)",
+        "documented": null,
+        "tradition_or_folklore": null
+      },
+      "sources_to_check": [
+        "https://hrce.tn.gov.in/hrcehome/temple_list.php"
+      ]
+    },
+    {
+      "place_id": "TN-HIN-0011",
+      "name": "Arulmigu Kapaleeswarar Temple, Mylapore",
+      "religion": "Hinduism (Shaivism)",
+      "site_type": "temple",
+      "region": "Northern Tamil Nadu",
+      "district": "Chennai",
+      "address": "Mylapore, Chennai",
+      "special_deity_or_focus": "Kapaleeswarar (Shiva) and Karpagambal (Parvati)",
+      "coordinates": {
+        "latitude": 13.0339,
+        "longitude": 80.2619,
+        "status": "approximate"
+      },
+      "opening_time": null,
+      "closing_time": null,
+      "hours_verified": false,
+      "last_verified": null,
+      "history": {
+        "documented": [
+          "The present temple is largely a Vijayanagara-period structure, rebuilt in the 16th century, and it is known for its Dravidian-style gopuram.",
+          "Tamil Shaiva hymns of the 7th-century saint Tirugnanasambandar refer to the shrine at Mylapore."
+        ],
+        "tradition_or_folklore": [
+          "Tradition says Parvati worshipped Shiva here in the form of a peacock (mayil), which is why the area is known as Mylapore, and the temple's sthala purana describes this event."
+        ]
+      },
+      "statue_or_idol_history": {
+        "main_idol": "Kapaleeswarar lingam and the Karpagambal shrine.",
+        "documented": "Vijayanagara-period sculpture and the gopuram are documented in architectural studies.",
+        "tradition_or_folklore": "The peacock story and the belief that the deity responded to Parvati's worship are devotional accounts."
+      },
+      "sources_to_check": [
+        "https://hrce.tn.gov.in/hrcehome/temple_list.php"
+      ]
+    },
+    {
+      "place_id": "TN-DIST-CHENNA-002",
+      "name": "Kandaswamy Koil, Washermanpet",
+      "religion": "Hinduism (Murugan worship)",
+      "site_type": "temple",
+      "region": "Northern Tamil Nadu",
+      "district": "Chennai",
+      "address": null,
+      "special_deity_or_focus": "Murugan (Kandaswamy)",
+      "coordinates": null,
+      "opening_time": null,
+      "closing_time": null,
+      "hours_verified": false,
+      "last_verified": null,
+      "history": {
+        "documented": [
+          "A Murugan temple in north Chennai with a long-standing local congregation; its records are mostly local and need verification."
+        ],
+        "tradition_or_folklore": []
+      },
+      "statue_or_idol_history": {
+        "main_idol": "Murugan (Kandaswamy)",
+        "documented": null,
+        "tradition_or_folklore": null
+      },
+      "sources_to_check": [
+        "https://hrce.tn.gov.in/hrcehome/temple_list.php"
+      ]
+    },
+    {
+      "place_id": "TN-DIST-CHENNA-001",
+      "name": "Parthasarathy Temple, Triplicane",
+      "religion": "Hinduism (Vaishnavism)",
+      "site_type": "temple",
+      "region": "Northern Tamil Nadu",
+      "district": "Chennai",
+      "address": null,
+      "special_deity_or_focus": "Krishna as Parthasarathy (charioteer)",
+      "coordinates": null,
+      "opening_time": null,
+      "closing_time": null,
+      "hours_verified": false,
+      "last_verified": null,
+      "history": {
+        "documented": [
+          "A Vaishnava shrine whose present structure reflects Vijayanagara-period building; it is a Divya Desam praised by the Alvar saints."
+        ],
+        "tradition_or_folklore": [
+          "Tradition links the shrine to the Krishna-Arjuna narrative of the Mahabharata."
+        ]
+      },
+      "statue_or_idol_history": {
+        "main_idol": "Krishna as Parthasarathy (charioteer)",
+        "documented": "Main idols are in the sanctum; detailed dating should be verified with HR&CE.",
+        "tradition_or_folklore": null
+      },
+      "sources_to_check": [
+        "https://hrce.tn.gov.in/hrcehome/temple_list.php"
+      ]
+    },
+    {
+      "place_id": "TN-CHR-0002",
+      "name": "Santhome Basilica, Chennai",
+      "religion": "Christianity",
+      "site_type": "basilica (church)",
+      "region": "Northern Tamil Nadu",
+      "district": "Chennai",
+      "address": null,
+      "special_deity_or_focus": "St. Thomas (Apostle)",
+      "coordinates": null,
+      "opening_time": null,
+      "closing_time": null,
+      "hours_verified": false,
+      "last_verified": null,
+      "history": {
+        "documented": [
+          "The present basilica is a 19th-century Gothic Revival church built over a Portuguese-era church of the 16th century."
+        ],
+        "tradition_or_folklore": [
+          "Tradition holds that St. Thomas the Apostle is buried here, a belief that underpins the site's pilgrimage status."
+        ]
+      },
+      "statue_or_idol_history": {
+        "main_idol": "St. Thomas (Apostle)",
+        "documented": null,
+        "tradition_or_folklore": null
+      },
+      "sources_to_check": [
+        "https://hrce.tn.gov.in/hrcehome/temple_list.php"
+      ]
+    },
+    {
+      "place_id": "TN-CHR-0003",
+      "name": "St. Thomas Mount (Parangimalai), Chennai",
+      "religion": "Christianity",
+      "site_type": "hill shrine",
+      "region": "Northern Tamil Nadu",
+      "district": "Chennai",
+      "address": null,
+      "special_deity_or_focus": "St. Thomas; Our Lady of Expectation",
+      "coordinates": null,
+      "opening_time": null,
+      "closing_time": null,
+      "hours_verified": false,
+      "last_verified": null,
+      "history": {
+        "documented": [
+          "A Portuguese-era shrine and church on a hill, documented from the 16th century onward."
+        ],
+        "tradition_or_folklore": [
+          "Tradition holds that St. Thomas took refuge on this hill and was later martyred nearby."
+        ]
+      },
+      "statue_or_idol_history": {
+        "main_idol": "St. Thomas; Our Lady of Expectation",
+        "documented": null,
+        "tradition_or_folklore": null
+      },
+      "sources_to_check": []
+    },
+    {
+      "place_id": "TN-ISL-0002",
+      "name": "Wallajah Mosque (Triplicane), Chennai",
+      "religion": "Islam",
+      "site_type": "mosque",
+      "region": "Northern Tamil Nadu",
+      "district": "Chennai",
+      "address": null,
+      "special_deity_or_focus": "Congregational mosque",
+      "coordinates": null,
+      "opening_time": null,
+      "closing_time": null,
+      "hours_verified": false,
+      "last_verified": null,
+      "history": {
+        "documented": [
+          "Built in 1795 by Nawab Muhammad Ali Khan Wallajah, a historic mosque in Triplicane, Chennai."
+        ],
+        "tradition_or_folklore": [
+          "Local accounts describe the mosque's role in the Nawabs of Arcot era."
+        ]
+      },
+      "statue_or_idol_history": {
+        "main_idol": "Congregational mosque",
+        "documented": null,
+        "tradition_or_folklore": null
+      },
+      "sources_to_check": []
+    },
+    {
+      "place_id": "TN-HIN-0006",
+      "name": "Arulmigu Nataraja Temple, Chidambaram",
+      "religion": "Hinduism (Shaivism)",
+      "site_type": "temple",
+      "region": "Northern Tamil Nadu",
+      "district": "Cuddalore",
+      "address": "Chidambaram",
+      "special_deity_or_focus": "Nataraja (Shiva as cosmic dancer); Akasa Lingam",
+      "coordinates": {
+        "latitude": 11.3993,
+        "longitude": 79.6933,
+        "status": "approximate"
+      },
+      "opening_time": null,
+      "closing_time": null,
+      "hours_verified": false,
+      "last_verified": null,
+      "history": {
+        "documented": [
+          "A major Shaiva centre with Chola-period patronage and later additions. The Tamil Shaiva hymns of the Nayanars, including those attributed to Tirugnanasambandar, refer to the Thillai shrine.",
+          "The temple's structure reflects several centuries of Chola, Pandya, and Vijayanagara-period building."
+        ],
+        "tradition_or_folklore": [
+          "Tradition describes Shiva's cosmic dance at Thillai and the Akasa Lingam, a sanctum in which the deity is said to be present as space rather than as a visible image."
+        ]
+      },
+      "statue_or_idol_history": {
+        "main_idol": "Nataraja bronze image, one of the most famous Chola-period bronze traditions.",
+        "documented": "Chola-style Nataraja bronzes are a well-documented art form, but the specific date of the Chidambaram image should be verified with museum or archaeological sources.",
+        "tradition_or_folklore": "The Akasa Lingam is worshipped as a formless or spaceless manifestation of Shiva, and is described as invisible in devotional practice."
+      },
+      "sources_to_check": [
+        "https://hrce.tn.gov.in/hrcehome/temple_list.php"
+      ]
+    },
+    {
+      "place_id": "TN-DIST-CUDDAL-002",
+      "name": "Thirupadhiripuliyur Vyaghrapureeswarar Temple",
+      "religion": "Hinduism (Shaivism)",
+      "site_type": "temple",
+      "region": "Northern Tamil Nadu",
+      "district": "Cuddalore",
+      "address": null,
+      "special_deity_or_focus": "Shiva (Vyaghrapureeswarar)",
+      "coordinates": null,
+      "opening_time": null,
+      "closing_time": null,
+      "hours_verified": false,
+      "last_verified": null,
+      "history": {
+        "documented": [
+          "A Shaiva shrine in Cuddalore district, praised in the hymns of the Nayanar saints and associated with Chola-era patronage."
+        ],
+        "tradition_or_folklore": [
+          "Tradition connects the shrine with the saint Appar and the tiger (vyaghra) legend of the deity."
+        ]
+      },
+      "statue_or_idol_history": {
+        "main_idol": "Shiva (Vyaghrapureeswarar)",
+        "documented": null,
+        "tradition_or_folklore": null
+      },
+      "sources_to_check": [
+        "https://hrce.tn.gov.in/hrcehome/temple_list.php"
+      ]
+    },
+    {
+      "place_id": "TN-DIST-CUDDAL-001",
+      "name": "Vriddhachalam Mukteeswarar Temple",
+      "religion": "Hinduism (Shaivism)",
+      "site_type": "temple",
+      "region": "Northern Tamil Nadu",
+      "district": "Cuddalore",
+      "address": null,
+      "special_deity_or_focus": "Shiva (Mukteeswarar)",
+      "coordinates": null,
+      "opening_time": null,
+      "closing_time": null,
+      "hours_verified": false,
+      "last_verified": null,
+      "history": {
+        "documented": [
+          "A Shaiva temple at Vriddhachalam; listed among the Padal Petra Sthalam shrines praised in Tamil Shaiva hymns."
+        ],
+        "tradition_or_folklore": []
+      },
+      "statue_or_idol_history": {
+        "main_idol": "Shiva (Mukteeswarar)",
+        "documented": null,
+        "tradition_or_folklore": null
+      },
+      "sources_to_check": [
+        "https://hrce.tn.gov.in/hrcehome/temple_list.php"
+      ]
+    },
+    {
+      "place_id": "TN-DIST-KALLAK-001",
+      "name": "Ulagalanda Perumal Temple, Thirukoilur",
+      "religion": "Hinduism (Vaishnavism)",
+      "site_type": "temple",
+      "region": "Northern Tamil Nadu",
+      "district": "Kallakurichi",
+      "address": null,
+      "special_deity_or_focus": "Ulagalanda Perumal (Trivikrama, Vishnu)",
+      "coordinates": null,
+      "opening_time": null,
+      "closing_time": null,
+      "hours_verified": false,
+      "last_verified": null,
+      "history": {
+        "documented": [
+          "A Vaishnava Divya Desam on the Pennai river, with Chola-period and later structures."
+        ],
+        "tradition_or_folklore": [
+          "Tradition links the deity to Vishnu's cosmic form measuring the worlds."
+        ]
+      },
+      "statue_or_idol_history": {
+        "main_idol": "Ulagalanda Perumal (Trivikrama, Vishnu)",
+        "documented": null,
+        "tradition_or_folklore": null
+      },
+      "sources_to_check": [
+        "https://hrce.tn.gov.in/hrcehome/temple_list.php"
+      ]
+    },
+    {
+      "place_id": "TN-DIST-KANCHE-001",
+      "name": "Ekambareswarar Temple, Kanchipuram",
+      "religion": "Hinduism (Shaivism)",
+      "site_type": "temple",
+      "region": "Northern Tamil Nadu",
+      "district": "Kancheepuram",
+      "address": null,
+      "special_deity_or_focus": "Shiva as Prithvi (earth) lingam",
+      "coordinates": null,
+      "opening_time": null,
+      "closing_time": null,
+      "hours_verified": false,
+      "last_verified": null,
+      "history": {
+        "documented": [
+          "A major temple with Pallava origins and large gopurams added in the Vijayanagara period."
+        ],
+        "tradition_or_folklore": [
+          "Tradition says Parvati worshipped the earth lingam under a mango tree at this site."
+        ]
+      },
+      "statue_or_idol_history": {
+        "main_idol": "Shiva as Prithvi (earth) lingam",
+        "documented": null,
+        "tradition_or_folklore": null
+      },
+      "sources_to_check": [
+        "https://hrce.tn.gov.in/hrcehome/temple_list.php"
+      ]
+    },
+    {
+      "place_id": "TN-HIN-0013",
+      "name": "Kailasanathar Temple, Kanchipuram",
+      "religion": "Hinduism (Shaivism)",
+      "site_type": "temple",
+      "region": "Northern Tamil Nadu",
+      "district": "Kancheepuram",
+      "address": "Kanchipuram",
+      "special_deity_or_focus": "Kailasanathar (Shiva)",
+      "coordinates": {
+        "latitude": 12.8342,
+        "longitude": 79.7036,
+        "status": "approximate"
+      },
+      "opening_time": null,
+      "closing_time": null,
+      "hours_verified": false,
+      "last_verified": null,
+      "history": {
+        "documented": [
+          "Built by the Pallava king Rajasimha (Narasimhavarman II), generally dated to the late 7th to early 8th century, and one of the earliest surviving structural temples in South India built from sandstone.",
+          "The temple's walls contain sculptures and inscriptions that record Pallava patronage."
+        ],
+        "tradition_or_folklore": []
+      },
+      "statue_or_idol_history": {
+        "main_idol": "Lingam in the sanctum.",
+        "documented": "Pallava-period sculpture on the walls, including depictions of Shaiva deities, is documented in art-historical studies.",
+        "tradition_or_folklore": null
+      },
+      "sources_to_check": [
+        "https://www.tnarch.gov.in/monuments_gos"
+      ]
+    },
+    {
+      "place_id": "TN-DIST-KANCHE-002",
+      "name": "Kamakshi Amman Temple, Kanchipuram",
+      "religion": "Hinduism (Shaktism)",
+      "site_type": "temple",
+      "region": "Northern Tamil Nadu",
+      "district": "Kancheepuram",
+      "address": null,
+      "special_deity_or_focus": "Kamakshi (Parvati)",
+      "coordinates": null,
+      "opening_time": null,
+      "closing_time": null,
+      "hours_verified": false,
+      "last_verified": null,
+      "history": {
+        "documented": [
+          "A major Shakta temple in Kanchipuram with a long history of Pallava-era and later patronage."
+        ],
+        "tradition_or_folklore": [
+          "Kanchipuram is traditionally listed among the sacred Shakta pilgrimage centres."
+        ]
+      },
+      "statue_or_idol_history": {
+        "main_idol": "Kamakshi (Parvati)",
+        "documented": null,
+        "tradition_or_folklore": null
+      },
+      "sources_to_check": [
+        "https://hrce.tn.gov.in/hrcehome/temple_list.php"
+      ]
+    },
+    {
+      "place_id": "TN-DIST-KANCHE-003",
+      "name": "Varadaraja Perumal Temple, Kanchipuram",
+      "religion": "Hinduism (Vaishnavism)",
+      "site_type": "temple",
+      "region": "Northern Tamil Nadu",
+      "district": "Kancheepuram",
+      "address": null,
+      "special_deity_or_focus": "Varadaraja (Vishnu)",
+      "coordinates": null,
+      "opening_time": null,
+      "closing_time": null,
+      "hours_verified": false,
+      "last_verified": null,
+      "history": {
+        "documented": [
+          "A Vaishnava Divya Desam with Vijayanagara-period pillared halls and later additions."
+        ],
+        "tradition_or_folklore": []
+      },
+      "statue_or_idol_history": {
+        "main_idol": "Varadaraja (Vishnu)",
+        "documented": null,
+        "tradition_or_folklore": null
+      },
+      "sources_to_check": [
+        "https://hrce.tn.gov.in/hrcehome/temple_list.php"
+      ]
+    },
+    {
+      "place_id": "TN-DIST-RANIPE-001",
+      "name": "Parasurameswarar Temple, Thiruvalam",
+      "religion": "Hinduism (Shaivism)",
+      "site_type": "temple",
+      "region": "Northern Tamil Nadu",
+      "district": "Ranipet",
+      "address": null,
+      "special_deity_or_focus": "Shiva (Parasurameswarar)",
+      "coordinates": null,
+      "opening_time": null,
+      "closing_time": null,
+      "hours_verified": false,
+      "last_verified": null,
+      "history": {
+        "documented": [
+          "A Shaiva temple at Thiruvalam, with Chola and Vijayanagara-period additions recorded in local inscriptions."
+        ],
+        "tradition_or_folklore": [
+          "Tradition connects the shrine with the sage Parashurama."
+        ]
+      },
+      "statue_or_idol_history": {
+        "main_idol": "Shiva (Parasurameswarar)",
+        "documented": null,
+        "tradition_or_folklore": null
+      },
+      "sources_to_check": [
+        "https://hrce.tn.gov.in/hrcehome/temple_list.php"
+      ]
+    },
+    {
+      "place_id": "TN-DIST-TIRUVA-002",
+      "name": "Tiruttani Subramaniya Swamy Temple",
+      "religion": "Hinduism (Murugan worship)",
+      "site_type": "temple (hill)",
+      "region": "Northern Tamil Nadu",
+      "district": "Tiruvallur",
+      "address": null,
+      "special_deity_or_focus": "Murugan (Subramanya)",
+      "coordinates": null,
+      "opening_time": null,
+      "closing_time": null,
+      "hours_verified": false,
+      "last_verified": null,
+      "history": {
+        "documented": [
+          "A hilltop Murugan shrine known as one of the six abodes (Arupadai Veedu) and a major pilgrimage centre."
+        ],
+        "tradition_or_folklore": [
+          "Tradition holds that Murugan went to the hill after a quarrel with his parents, a story central to the shrine's identity."
+        ]
+      },
+      "statue_or_idol_history": {
+        "main_idol": "Murugan (Subramanya)",
+        "documented": null,
+        "tradition_or_folklore": null
+      },
+      "sources_to_check": [
+        "https://hrce.tn.gov.in/hrcehome/temple_list.php"
+      ]
+    },
+    {
+      "place_id": "TN-DIST-TIRUVA-001",
+      "name": "Veeraraghava Perumal Temple, Tiruvallur",
+      "religion": "Hinduism (Vaishnavism)",
+      "site_type": "temple",
+      "region": "Northern Tamil Nadu",
+      "district": "Tiruvallur",
+      "address": null,
+      "special_deity_or_focus": "Veeraraghava (Vishnu)",
+      "coordinates": null,
+      "opening_time": null,
+      "closing_time": null,
+      "hours_verified": false,
+      "last_verified": null,
+      "history": {
+        "documented": [
+          "A Vaishnava Divya Desam in Tiruvallur town, with Chola-period and later additions."
+        ],
+        "tradition_or_folklore": [
+          "Tradition associates the deity with the Ramayana-era worship of Vishnu at this site."
+        ]
+      },
+      "statue_or_idol_history": {
+        "main_idol": "Veeraraghava (Vishnu)",
+        "documented": null,
+        "tradition_or_folklore": null
+      },
+      "sources_to_check": [
+        "https://hrce.tn.gov.in/hrcehome/temple_list.php"
+      ]
+    },
+    {
+      "place_id": "TN-HIN-0012",
+      "name": "Arulmigu Arunachaleswarar Temple, Tiruvannamalai",
+      "religion": "Hinduism (Shaivism)",
+      "site_type": "temple",
+      "region": "Northern Tamil Nadu",
+      "district": "Tiruvannamalai",
+      "address": "Tiruvannamalai town, at the foot of Arunachala hill",
+      "special_deity_or_focus": "Arunachaleswarar (Shiva) as the element of fire (Agni Lingam)",
+      "coordinates": {
+        "latitude": 12.2253,
+        "longitude": 79.0747,
+        "status": "approximate"
+      },
+      "opening_time": null,
+      "closing_time": null,
+      "hours_verified": false,
+      "last_verified": null,
+      "history": {
+        "documented": [
+          "A major Shaiva temple with extensive construction from the Chola period onward, and large additions in the Vijayanagara period including gopurams and the 1000-pillared hall.",
+          "The temple is recorded in Tamil Shaiva hymns and is one of the Pancha Bhoota Sthalams, representing the element of fire."
+        ],
+        "tradition_or_folklore": [
+          "The Arunachala hill is regarded as the manifestation of Shiva's fire lingam, and the temple's sthala purana describes the hill as formed from the deity's fiery form."
+        ]
+      },
+      "statue_or_idol_history": {
+        "main_idol": "The Arunachaleswarar lingam, representing the fire element.",
+        "documented": "Vijayanagara and later sculpture and inscriptions are recorded in epigraphic surveys.",
+        "tradition_or_folklore": "The belief that the lingam embodies the fire element is a devotional principle."
+      },
+      "sources_to_check": [
+        "https://hrce.tn.gov.in/hrcehome/temple_list.php"
+      ]
+    },
+    {
+      "place_id": "TN-DIST-TIRUVA-003",
+      "name": "Ramana Maharshi Ashram, Tiruvannamalai",
+      "religion": "Hinduism (Advaita spiritual tradition)",
+      "site_type": "spiritual site",
+      "region": "Northern Tamil Nadu",
+      "district": "Tiruvannamalai",
+      "address": null,
+      "special_deity_or_focus": "Ramana Maharshi",
+      "coordinates": null,
+      "opening_time": null,
+      "closing_time": null,
+      "hours_verified": false,
+      "last_verified": null,
+      "history": {
+        "documented": [
+          "The ashram developed around Ramana Maharshi, who lived at the Arunachala hill from 1896 until his death in 1950."
+        ],
+        "tradition_or_folklore": [
+          "Devotees regard the hill and the ashram as sacred and as a place of spiritual practice."
+        ]
+      },
+      "statue_or_idol_history": {
+        "main_idol": "Ramana Maharshi",
+        "documented": null,
+        "tradition_or_folklore": null
+      },
+      "sources_to_check": [
+        "https://hrce.tn.gov.in/hrcehome/temple_list.php"
+      ]
+    },
+    {
+      "place_id": "TN-DIST-VELLOR-001",
+      "name": "Jalakandeswarar Temple, Vellore",
+      "religion": "Hinduism (Shaivism)",
+      "site_type": "temple",
+      "region": "Northern Tamil Nadu",
+      "district": "Vellore",
+      "address": null,
+      "special_deity_or_focus": "Shiva as Jala (water) lingam",
+      "coordinates": null,
+      "opening_time": null,
+      "closing_time": null,
+      "hours_verified": false,
+      "last_verified": null,
+      "history": {
+        "documented": [
+          "A Shaiva temple with Vijayanagara-period structures, near the Vellore fort."
+        ],
+        "tradition_or_folklore": [
+          "The water lingam is associated with the Pancha Bhoota (water) element in local tradition."
+        ]
+      },
+      "statue_or_idol_history": {
+        "main_idol": "Shiva as Jala (water) lingam",
+        "documented": null,
+        "tradition_or_folklore": null
+      },
+      "sources_to_check": [
+        "https://hrce.tn.gov.in/hrcehome/temple_list.php"
+      ]
+    },
+    {
+      "place_id": "TN-HIN-0016",
+      "name": "Sripuram Golden Temple (Mahalakshmi Temple)",
+      "religion": "Hinduism (Lakshmi worship)",
+      "site_type": "temple (modern)",
+      "region": "Northern Tamil Nadu",
+      "district": "Vellore",
+      "address": "Malaikodi, Vellore",
+      "special_deity_or_focus": "Mahalakshmi",
+      "coordinates": {
+        "latitude": 12.9054,
+        "longitude": 79.2236,
+        "status": "approximate"
+      },
+      "opening_time": null,
+      "closing_time": null,
+      "hours_verified": false,
+      "last_verified": null,
+      "history": {
+        "documented": [
+          "A modern temple built by the Sri Narayani Peetham trust and opened in the 2000s, notable for its gold-plated surfaces. It is not an ancient temple, and its construction history is recent and documented by the trust."
+        ],
+        "tradition_or_folklore": []
+      },
+      "statue_or_idol_history": {
+        "main_idol": "Mahalakshmi idol in the sanctum, consecrated in the modern temple.",
+        "documented": "The idol and gold work are recent and documented by the trust.",
+        "tradition_or_folklore": null
+      },
+      "sources_to_check": []
+    },
+    {
+      "place_id": "TN-DIST-VILLUP-001",
+      "name": "Gingee Fort and Varadarajaswamy Temple",
+      "religion": "Hinduism (Vaishnavism)",
+      "site_type": "fort and temple",
+      "region": "Northern Tamil Nadu",
+      "district": "Villupuram",
+      "address": null,
+      "special_deity_or_focus": "Varadaraja (Vishnu)",
+      "coordinates": null,
+      "opening_time": null,
+      "closing_time": null,
+      "hours_verified": false,
+      "last_verified": null,
+      "history": {
+        "documented": [
+          "The Gingee fort complex includes a Vaishnava temple, with fortifications built under Chola, Vijayanagara and later Nayak-era rulers."
+        ],
+        "tradition_or_folklore": []
+      },
+      "statue_or_idol_history": {
+        "main_idol": "Varadaraja (Vishnu)",
+        "documented": null,
+        "tradition_or_folklore": null
+      },
+      "sources_to_check": [
+        "https://hrce.tn.gov.in/hrcehome/temple_list.php"
+      ]
+    },
+    {
+      "place_id": "TN-HIN-0009",
+      "name": "Arulmigu Dhandayuthapani Swamy Temple, Palani",
+      "religion": "Hinduism (Shaivism, Murugan worship)",
+      "site_type": "temple",
+      "region": "Southern Tamil Nadu",
+      "district": "Dindigul",
+      "address": "Palani hill",
+      "special_deity_or_focus": "Murugan (Dandayudhapani), as a renunciant",
+      "coordinates": {
+        "latitude": 10.45,
+        "longitude": 77.52,
+        "status": "approximate"
+      },
+      "opening_time": null,
+      "closing_time": null,
+      "hours_verified": false,
+      "last_verified": null,
+      "history": {
+        "documented": [
+          "A major pilgrimage centre on a hill, with the temple recorded as an important Murugan shrine from the medieval period onward.",
+          "The temple has been administered by the state since the Madras Hindu Religious Endowments system took hold in the 20th century; check HR&CE for current records."
+        ],
+        "tradition_or_folklore": [
+          "The sthala purana tells of Murugan's quarrel with his mother Parvati and his renunciation, after which he stood on the hill as Dandayudhapani with a staff, a story that gives the temple its identity.",
+          "A popular account says the main idol was made by the siddha Bogar from a mixture of nine poisons and minerals (navapashanam)."
+        ]
+      },
+      "statue_or_idol_history": {
+        "main_idol": "The Dandayudhapani idol in the sanctum.",
+        "documented": "The idol's material is widely described as navapashanam. Scientific analysis of the image has not been publicly documented, so treat the composition as tradition.",
+        "tradition_or_folklore": "Bogar's creation of the idol from nine poisons and minerals, and the belief that the idol's form carries healing properties, are devotional beliefs."
+      },
+      "sources_to_check": [
+        "https://hrce.tn.gov.in/hrcehome/temple_list.php"
+      ]
+    },
+    {
+      "place_id": "TN-DIST-DINDIG-001",
+      "name": "Kurinji Andavar Temple, Kodaikanal",
+      "religion": "Hinduism (Murugan worship)",
+      "site_type": "temple",
+      "region": "Southern Tamil Nadu",
+      "district": "Dindigul",
+      "address": null,
+      "special_deity_or_focus": "Murugan as Kurinji Andavar",
+      "coordinates": null,
+      "opening_time": null,
+      "closing_time": null,
+      "hours_verified": false,
+      "last_verified": null,
+      "history": {
+        "documented": [
+          "A hill temple in Kodaikanal dedicated to Murugan in the form of the hill-region deity."
+        ],
+        "tradition_or_folklore": []
+      },
+      "statue_or_idol_history": {
+        "main_idol": "Murugan as Kurinji Andavar",
+        "documented": null,
+        "tradition_or_folklore": null
+      },
+      "sources_to_check": [
+        "https://hrce.tn.gov.in/hrcehome/temple_list.php"
+      ]
+    },
+    {
+      "place_id": "TN-DIST-KANNIY-001",
+      "name": "Kanyakumari Bhagavathy Amman Temple",
+      "religion": "Hinduism (Shaktism)",
+      "site_type": "temple",
+      "region": "Southern Tamil Nadu",
+      "district": "Kanniyakumari",
+      "address": null,
+      "special_deity_or_focus": "Kanyakumari (Devi)",
+      "coordinates": null,
+      "opening_time": null,
+      "closing_time": null,
+      "hours_verified": false,
+      "last_verified": null,
+      "history": {
+        "documented": [
+          "A major Shakta temple at the southern tip of India, dedicated to the virgin goddess Kanyakumari."
+        ],
+        "tradition_or_folklore": [
+          "Tradition says the goddess waits here for Shiva, and the shrine is one of the Shakta pilgrimage sites."
+        ]
+      },
+      "statue_or_idol_history": {
+        "main_idol": "Kanyakumari (Devi)",
+        "documented": null,
+        "tradition_or_folklore": null
+      },
+      "sources_to_check": [
+        "https://hrce.tn.gov.in/hrcehome/temple_list.php"
+      ]
+    },
+    {
+      "place_id": "TN-DIST-KANNIY-002",
+      "name": "Suchindram Thanumalayan Temple",
+      "religion": "Hinduism (Shaivism and Vaishnavism)",
+      "site_type": "temple",
+      "region": "Southern Tamil Nadu",
+      "district": "Kanniyakumari",
+      "address": null,
+      "special_deity_or_focus": "Thanumalayan (Trimurti: Brahma, Vishnu, Shiva)",
+      "coordinates": null,
+      "opening_time": null,
+      "closing_time": null,
+      "hours_verified": false,
+      "last_verified": null,
+      "history": {
+        "documented": [
+          "A temple combining Shaiva and Vaishnava shrines with a Trimurti image; Chola and later additions are recorded."
+        ],
+        "tradition_or_folklore": [
+          "Tradition associates the shrine with the Trimurti (three forms of the divine) worshipped together."
+        ]
+      },
+      "statue_or_idol_history": {
+        "main_idol": "Thanumalayan (Trimurti: Brahma, Vishnu, Shiva)",
+        "documented": null,
+        "tradition_or_folklore": null
+      },
+      "sources_to_check": [
+        "https://hrce.tn.gov.in/hrcehome/temple_list.php"
+      ]
+    },
+    {
+      "place_id": "TN-DIST-MADURA-001",
+      "name": "Alagar Kovil (Kallazhagar Temple)",
+      "religion": "Hinduism (Vaishnavism)",
+      "site_type": "temple (hill)",
+      "region": "Southern Tamil Nadu",
+      "district": "Madurai",
+      "address": null,
+      "special_deity_or_focus": "Kallazhagar (Vishnu)",
+      "coordinates": null,
+      "opening_time": null,
+      "closing_time": null,
+      "hours_verified": false,
+      "last_verified": null,
+      "history": {
+        "documented": [
+          "A Vaishnava Divya Desam on a hill near Madurai, with Pandya-period origins and later Nayak-era additions."
+        ],
+        "tradition_or_folklore": [
+          "Tradition links the deity to Vishnu's appearance to the Alvar saints."
+        ]
+      },
+      "statue_or_idol_history": {
+        "main_idol": "Kallazhagar (Vishnu)",
+        "documented": null,
+        "tradition_or_folklore": null
+      },
+      "sources_to_check": [
+        "https://hrce.tn.gov.in/hrcehome/temple_list.php"
+      ]
+    },
+    {
+      "place_id": "TN-HIN-0001",
+      "name": "Arulmigu Meenakshi Sundareswarar Temple",
+      "religion": "Hinduism (Shaivism)",
+      "site_type": "temple",
+      "region": "Southern Tamil Nadu",
+      "district": "Madurai",
+      "address": "Madurai city centre",
+      "special_deity_or_focus": "Meenakshi (Parvati) and Sundareswarar (Shiva)",
+      "coordinates": {
+        "latitude": 9.9195,
+        "longitude": 78.1193,
+        "status": "approximate"
+      },
+      "opening_time": null,
+      "closing_time": null,
+      "hours_verified": false,
+      "last_verified": null,
+      "history": {
+        "documented": [
+          "The temple complex developed over many centuries, and much of the present structure, including the large gopurams and the thousand-pillared hall, is generally attributed to the Nayak rulers of the 16th and 17th centuries.",
+          "Thirumalai Nayak (reigned c. 1623 to 1659) is credited with major expansion and additions to the complex."
+        ],
+        "tradition_or_folklore": [
+          "Sthala purana traditions describe Shiva marrying Meenakshi, an incarnation of Parvati, at this site, and place the origins of the shrine in very ancient times."
+        ]
+      },
+      "statue_or_idol_history": {
+        "main_idol": "Meenakshi and Sundareswarar are worshipped as principal deities in their shrines within the complex.",
+        "documented": "Idol and shrine details have been recorded by temple administration and by scholars of Dravidian temple architecture. Verify specifics with HR&CE.",
+        "tradition_or_folklore": "Devotional accounts describe the Meenakshi image as made of a green stone (marakatham). This is belief, not a documented material analysis."
+      },
+      "sources_to_check": [
+        "https://hrce.tn.gov.in/hrcehome/temple_list.php",
+        "https://www.tnhrce.gov.in/welfare/temple_details.php"
+      ]
+    },
+    {
+      "place_id": "TN-JAI-0002",
+      "name": "Samanar Hills (Samanar Malai), near Madurai",
+      "religion": "Jainism",
+      "site_type": "rock-cut monastic site",
+      "region": "Southern Tamil Nadu",
+      "district": "Madurai",
+      "address": null,
+      "special_deity_or_focus": "Jain tirthankaras and monks",
+      "coordinates": null,
+      "opening_time": null,
+      "closing_time": null,
+      "hours_verified": false,
+      "last_verified": null,
+      "history": {
+        "documented": [
+          "A hill site with rock-cut Jain beds and early Tamil-Brahmi inscriptions, commonly dated to the early centuries BCE to CE."
+        ],
+        "tradition_or_folklore": [
+          "Local tradition regards the hill as a long-standing Jain monastic centre."
+        ]
+      },
+      "statue_or_idol_history": {
+        "main_idol": "Jain tirthankaras and monks",
+        "documented": "Records and carvings should be verified with Tamil Nadu Archaeology.",
+        "tradition_or_folklore": null
+      },
+      "sources_to_check": []
+    },
+    {
+      "place_id": "TN-DIST-MADURA-002",
+      "name": "Thirupparankundram Murugan Temple",
+      "religion": "Hinduism (Murugan worship)",
+      "site_type": "temple (cave and hill)",
+      "region": "Southern Tamil Nadu",
+      "district": "Madurai",
+      "address": null,
+      "special_deity_or_focus": "Murugan (Subramanya)",
+      "coordinates": null,
+      "opening_time": null,
+      "closing_time": null,
+      "hours_verified": false,
+      "last_verified": null,
+      "history": {
+        "documented": [
+          "A Murugan temple cut partly into a hill, with rock-cut Pandya-period features and later additions."
+        ],
+        "tradition_or_folklore": [
+          "Tradition holds that Murugan married Deivanai here."
+        ]
+      },
+      "statue_or_idol_history": {
+        "main_idol": "Murugan (Subramanya)",
+        "documented": null,
+        "tradition_or_folklore": null
+      },
+      "sources_to_check": [
+        "https://hrce.tn.gov.in/hrcehome/temple_list.php"
+      ]
+    },
+    {
+      "place_id": "TN-DIST-RAMANA-001",
+      "name": "Adi Jagannatha Perumal Temple, Thiruppullani",
+      "religion": "Hinduism (Vaishnavism)",
+      "site_type": "temple",
+      "region": "Southern Tamil Nadu",
+      "district": "Ramanathapuram",
+      "address": null,
+      "special_deity_or_focus": "Darbha Sayanam (Vishnu)",
+      "coordinates": null,
+      "opening_time": null,
+      "closing_time": null,
+      "hours_verified": false,
+      "last_verified": null,
+      "history": {
+        "documented": [
+          "A Vaishnava Divya Desam with Chola-era origins and later additions."
+        ],
+        "tradition_or_folklore": [
+          "Tradition associates the shrine with Rama's worship of Vishnu before crossing to Lanka."
+        ]
+      },
+      "statue_or_idol_history": {
+        "main_idol": "Darbha Sayanam (Vishnu)",
+        "documented": null,
+        "tradition_or_folklore": null
+      },
+      "sources_to_check": [
+        "https://hrce.tn.gov.in/hrcehome/temple_list.php"
+      ]
+    },
+    {
+      "place_id": "TN-HIN-0008",
+      "name": "Arulmigu Ramanathaswamy Temple, Rameswaram",
+      "religion": "Hinduism (Shaivism)",
+      "site_type": "temple",
+      "region": "Southern Tamil Nadu",
+      "district": "Ramanathapuram",
+      "address": "Rameswaram island",
+      "special_deity_or_focus": "Ramanathaswamy (Shiva); one of the twelve Jyotirlingas",
+      "coordinates": {
+        "latitude": 9.2881,
+        "longitude": 79.3174,
+        "status": "approximate"
+      },
+      "opening_time": null,
+      "closing_time": null,
+      "hours_verified": false,
+      "last_verified": null,
+      "history": {
+        "documented": [
+          "The temple's present form, including the long pillared corridor, is generally attributed to building activity from the 17th to 18th centuries under the Setupathi rulers of Ramnad.",
+          "It is one of the Char Dham pilgrimage sites, and its corridor is widely cited as among the longest in India."
+        ],
+        "tradition_or_folklore": [
+          "The Ramayana tradition holds that Rama worshipped Shiva here and installed or invoked the lingam that is the main deity, so the temple is associated with the Ramayana narrative."
+        ]
+      },
+      "statue_or_idol_history": {
+        "main_idol": "The Ramanathaswamy lingam in the sanctum.",
+        "documented": "Pillar sculpture and corridor carvings are recorded in regional architectural studies.",
+        "tradition_or_folklore": "The origin of the lingam is described in sthala purana traditions linked to the Ramayana. These are devotional accounts."
+      },
+      "sources_to_check": [
+        "https://hrce.tn.gov.in/hrcehome/temple_list.php"
+      ]
+    },
+    {
+      "place_id": "TN-DIST-SIVAGA-002",
+      "name": "Kalaiyarkoil Shiva Temple",
+      "religion": "Hinduism (Shaivism)",
+      "site_type": "temple",
+      "region": "Southern Tamil Nadu",
+      "district": "Sivaganga",
+      "address": null,
+      "special_deity_or_focus": "Shiva",
+      "coordinates": null,
+      "opening_time": null,
+      "closing_time": null,
+      "hours_verified": false,
+      "last_verified": null,
+      "history": {
+        "documented": [
+          "A Shaiva temple in Kalaiyarkoil with a regional tradition of worship; detailed dating should be verified."
+        ],
+        "tradition_or_folklore": []
+      },
+      "statue_or_idol_history": {
+        "main_idol": "Shiva",
+        "documented": null,
+        "tradition_or_folklore": null
+      },
+      "sources_to_check": [
+        "https://hrce.tn.gov.in/hrcehome/temple_list.php"
+      ]
+    },
+    {
+      "place_id": "TN-DIST-SIVAGA-001",
+      "name": "Kundrakudi Murugan Temple",
+      "religion": "Hinduism (Murugan worship)",
+      "site_type": "temple (hill)",
+      "region": "Southern Tamil Nadu",
+      "district": "Sivaganga",
+      "address": null,
+      "special_deity_or_focus": "Murugan",
+      "coordinates": null,
+      "opening_time": null,
+      "closing_time": null,
+      "hours_verified": false,
+      "last_verified": null,
+      "history": {
+        "documented": [
+          "A hilltop Murugan temple in Sivaganga district, with an established local tradition of worship."
+        ],
+        "tradition_or_folklore": [
+          "Local belief holds the shrine is one of Murugan's favoured hill abodes."
+        ]
+      },
+      "statue_or_idol_history": {
+        "main_idol": "Murugan",
+        "documented": null,
+        "tradition_or_folklore": null
+      },
+      "sources_to_check": [
+        "https://hrce.tn.gov.in/hrcehome/temple_list.php"
+      ]
+    },
+    {
+      "place_id": "TN-DIST-TENKAS-001",
+      "name": "Kutralanathar Temple, Courtallam",
+      "religion": "Hinduism (Shaivism)",
+      "site_type": "temple",
+      "region": "Southern Tamil Nadu",
+      "district": "Tenkasi",
+      "address": null,
+      "special_deity_or_focus": "Shiva (Kuttalanathar)",
+      "coordinates": null,
+      "opening_time": null,
+      "closing_time": null,
+      "hours_verified": false,
+      "last_verified": null,
+      "history": {
+        "documented": [
+          "A Shaiva temple near the Courtallam falls, with Chola-period origins and later additions; the waterfalls are traditionally considered sacred."
+        ],
+        "tradition_or_folklore": [
+          "Tradition holds that bathing in the falls has healing value."
+        ]
+      },
+      "statue_or_idol_history": {
+        "main_idol": "Shiva (Kuttalanathar)",
+        "documented": null,
+        "tradition_or_folklore": null
+      },
+      "sources_to_check": [
+        "https://hrce.tn.gov.in/hrcehome/temple_list.php"
+      ]
+    },
+    {
+      "place_id": "TN-HIN-0010",
+      "name": "Arulmigu Subramaniya Swamy Temple, Thiruchendur",
+      "religion": "Hinduism (Shaivism, Murugan worship)",
+      "site_type": "temple",
+      "region": "Southern Tamil Nadu",
+      "district": "Thoothukudi",
+      "address": "Thiruchendur, coastal town",
+      "special_deity_or_focus": "Subramaniya Swamy (Murugan); victory over Surapadman",
+      "coordinates": {
+        "latitude": 8.4965,
+        "longitude": 78.1224,
+        "status": "approximate"
+      },
+      "opening_time": null,
+      "closing_time": null,
+      "hours_verified": false,
+      "last_verified": null,
+      "history": {
+        "documented": [
+          "A coastal temple of Murugan with Tamil Sangam-era association in some literature, and a long history of rebuilding and patronage under South Indian dynasties.",
+          "Colonial-era records describe an attack on the temple by the Dutch in the 17th century; verify this against published colonial sources."
+        ],
+        "tradition_or_folklore": [
+          "The temple is linked in devotional tradition to the story of Murugan's victory over the asura Surapadman (Sura Samharam), which is commemorated in festivals here."
+        ]
+      },
+      "statue_or_idol_history": {
+        "main_idol": "The Subramaniya Swamy idol in the sanctum, facing the sea.",
+        "documented": "The temple's sculpture and inscriptions are documented in regional studies. Verify specifics with HR&CE and Tamil Nadu Archaeology.",
+        "tradition_or_folklore": "The idol's sanctity and the belief that the shrine was established by divine or ancient action are devotional accounts."
+      },
+      "sources_to_check": [
+        "https://hrce.tn.gov.in/hrcehome/temple_list.php"
+      ]
+    },
+    {
+      "place_id": "TN-DIST-THOOTH-001",
+      "name": "Vaikuntanathar Temple, Tiruvaikuntam",
+      "religion": "Hinduism (Vaishnavism)",
+      "site_type": "temple",
+      "region": "Southern Tamil Nadu",
+      "district": "Thoothukudi",
+      "address": null,
+      "special_deity_or_focus": "Vaikuntanathan (Vishnu)",
+      "coordinates": null,
+      "opening_time": null,
+      "closing_time": null,
+      "hours_verified": false,
+      "last_verified": null,
+      "history": {
+        "documented": [
+          "A Vaishnava Divya Desam in Thoothukudi district with Pandya and later additions."
+        ],
+        "tradition_or_folklore": []
+      },
+      "statue_or_idol_history": {
+        "main_idol": "Vaikuntanathan (Vishnu)",
+        "documented": null,
+        "tradition_or_folklore": null
+      },
+      "sources_to_check": [
+        "https://hrce.tn.gov.in/hrcehome/temple_list.php"
+      ]
+    },
+    {
+      "place_id": "TN-DIST-TIRUNE-001",
+      "name": "Nellaiappar Temple, Tirunelveli",
+      "religion": "Hinduism (Shaivism)",
+      "site_type": "temple",
+      "region": "Southern Tamil Nadu",
+      "district": "Tirunelveli",
+      "address": null,
+      "special_deity_or_focus": "Shiva (Nellaiappar)",
+      "coordinates": null,
+      "opening_time": null,
+      "closing_time": null,
+      "hours_verified": false,
+      "last_verified": null,
+      "history": {
+        "documented": [
+          "A large Shaiva temple with Pandya-period origins and extensive Nayak-era pillared halls."
+        ],
+        "tradition_or_folklore": [
+          "Tradition connects the name Nellaiappar to a paddy-field legend involving the deity."
+        ]
+      },
+      "statue_or_idol_history": {
+        "main_idol": "Shiva (Nellaiappar)",
+        "documented": null,
+        "tradition_or_folklore": null
+      },
+      "sources_to_check": [
+        "https://hrce.tn.gov.in/hrcehome/temple_list.php"
+      ]
+    },
+    {
+      "place_id": "TN-DIST-VIRUDH-001",
+      "name": "Andal Temple, Srivilliputhur",
+      "religion": "Hinduism (Vaishnavism)",
+      "site_type": "temple",
+      "region": "Southern Tamil Nadu",
+      "district": "Virudhunagar",
+      "address": null,
+      "special_deity_or_focus": "Andal (Goda Devi)",
+      "coordinates": null,
+      "opening_time": null,
+      "closing_time": null,
+      "hours_verified": false,
+      "last_verified": null,
+      "history": {
+        "documented": [
+          "A Vaishnava temple dedicated to the Alvar saint Andal, with Pandya-period origins and later Nayak-era additions."
+        ],
+        "tradition_or_folklore": [
+          "Tradition says Andal was found as a child at this site and later married Vishnu."
+        ]
+      },
+      "statue_or_idol_history": {
+        "main_idol": "Andal (Goda Devi)",
+        "documented": null,
+        "tradition_or_folklore": null
+      },
+      "sources_to_check": [
+        "https://hrce.tn.gov.in/hrcehome/temple_list.php"
+      ]
+    },
+    {
+      "place_id": "TN-FOLK-0002",
+      "name": "Aiyanar village guardian shrines, statewide",
+      "religion": "Indigenous, folk and local religious traditions",
+      "site_type": "village deity shrine",
+      "region": "Statewide",
+      "district": "Multiple districts",
+      "address": null,
+      "special_deity_or_focus": "Aiyanar (village guardian deity)",
+      "coordinates": null,
+      "opening_time": null,
+      "closing_time": null,
+      "hours_verified": false,
+      "last_verified": null,
+      "history": {
+        "documented": [
+          "Aiyanar shrines are widespread across Tamil villages, often with terracotta horses and figures offered by devotees; the shrine forms vary by locality."
+        ],
+        "tradition_or_folklore": [
+          "Local tradition regards Aiyanar as a guardian who protects villages and boundaries."
+        ]
+      },
+      "statue_or_idol_history": {
+        "main_idol": "Aiyanar (village guardian deity)",
+        "documented": null,
+        "tradition_or_folklore": null
+      },
+      "sources_to_check": []
+    },
+    {
+      "place_id": "TN-FOLK-0001",
+      "name": "Kal Vittukal (memorial and hero stones), statewide category",
+      "religion": "Indigenous and folk traditions (ancestor and hero veneration)",
+      "site_type": "memorial stone category",
+      "region": "Statewide",
+      "district": "Multiple districts",
+      "address": "Various villages across Tamil Nadu",
+      "special_deity_or_focus": "Warriors, heroes, and ancestors commemorated on stones",
+      "coordinates": null,
+      "opening_time": null,
+      "closing_time": null,
+      "hours_verified": false,
+      "last_verified": null,
+      "history": {
+        "documented": [
+          "Memorial stones (nadukal, virakkal, or hero stones) are carved slabs that commemorate warriors, cattle-raiders, or people who died in battle or in community events. The earliest forms are referred to in Sangam-era Tamil literature, and many medieval examples carry inscriptions and carved scenes showing the death, the hero's ascent, and sometimes the wife's sati or family members.",
+          "Hero stones are well documented across the Tamil region and are studied by Tamil Nadu Archaeology and epigraphists. Their dating depends on script and iconography."
+        ],
+        "tradition_or_folklore": [
+          "Many villages continue to worship hero stones as protective deities, and local belief attributes powers to them. This is folk practice and should be presented as community belief."
+        ]
+      },
+      "statue_or_idol_history": {
+        "main_idol": "Carved stone slabs with relief scenes; not idols in the temple sense.",
+        "documented": "Individual stones are recorded by district archaeological surveys. Specific dates and inscriptions should be verified per site.",
+        "tradition_or_folklore": "Local veneration and offerings to individual hero stones are community practice."
+      },
+      "sources_to_check": [
+        "https://www.tnarch.gov.in/monuments_gos",
+        "https://www.tnarch.gov.in/monuments-subnames"
+      ]
+    },
+    {
+      "place_id": "TN-DIST-COIMBA-002",
+      "name": "Dhyanalinga and Adiyogi Shiva (Isha Yoga Center)",
+      "religion": "Hinduism (modern Shaiva spiritual centre)",
+      "site_type": "spiritual centre (modern)",
+      "region": "Western Tamil Nadu",
+      "district": "Coimbatore",
+      "address": null,
+      "special_deity_or_focus": "Shiva (Adiyogi)",
+      "coordinates": null,
+      "opening_time": null,
+      "closing_time": null,
+      "hours_verified": false,
+      "last_verified": null,
+      "history": {
+        "documented": [
+          "A modern spiritual centre established in the 2000s, with the Dhyanalinga installed in 1999 and a large Adiyogi statue added in 2017."
+        ],
+        "tradition_or_folklore": [
+          "The centre's teachings are presented by its founder as a contemporary yogic tradition."
+        ]
+      },
+      "statue_or_idol_history": {
+        "main_idol": "Shiva (Adiyogi)",
+        "documented": null,
+        "tradition_or_folklore": null
+      },
+      "sources_to_check": [
+        "https://hrce.tn.gov.in/hrcehome/temple_list.php"
+      ]
+    },
+    {
+      "place_id": "TN-DIST-COIMBA-001",
+      "name": "Marudamalai Subramanya Swamy Temple",
+      "religion": "Hinduism (Murugan worship)",
+      "site_type": "temple (hill)",
+      "region": "Western Tamil Nadu",
+      "district": "Coimbatore",
+      "address": null,
+      "special_deity_or_focus": "Murugan",
+      "coordinates": null,
+      "opening_time": null,
+      "closing_time": null,
+      "hours_verified": false,
+      "last_verified": null,
+      "history": {
+        "documented": [
+          "A Murugan temple on a hill outside Coimbatore, a popular pilgrimage site with a documented history of worship."
+        ],
+        "tradition_or_folklore": []
+      },
+      "statue_or_idol_history": {
+        "main_idol": "Murugan",
+        "documented": null,
+        "tradition_or_folklore": null
+      },
+      "sources_to_check": [
+        "https://hrce.tn.gov.in/hrcehome/temple_list.php"
+      ]
+    },
+    {
+      "place_id": "TN-DIST-ERODE-001",
+      "name": "Bhavani Sangameswarar Temple, Bhavani",
+      "religion": "Hinduism (Shaivism)",
+      "site_type": "temple",
+      "region": "Western Tamil Nadu",
+      "district": "Erode",
+      "address": null,
+      "special_deity_or_focus": "Shiva (Sangameswarar)",
+      "coordinates": null,
+      "opening_time": null,
+      "closing_time": null,
+      "hours_verified": false,
+      "last_verified": null,
+      "history": {
+        "documented": [
+          "A Shaiva temple at the confluence of the Bhavani and Kaveri rivers, with Chola and later additions."
+        ],
+        "tradition_or_folklore": [
+          "Tradition regards the confluence as sacred and links the temple to the river's sanctity."
+        ]
+      },
+      "statue_or_idol_history": {
+        "main_idol": "Shiva (Sangameswarar)",
+        "documented": null,
+        "tradition_or_folklore": null
+      },
+      "sources_to_check": [
+        "https://hrce.tn.gov.in/hrcehome/temple_list.php"
+      ]
+    },
+    {
+      "place_id": "TN-DIST-KARUR-001",
+      "name": "Pasupatheeswarar Temple, Karur",
+      "religion": "Hinduism (Shaivism)",
+      "site_type": "temple",
+      "region": "Western Tamil Nadu",
+      "district": "Karur",
+      "address": null,
+      "special_deity_or_focus": "Shiva (Pasupatheeswarar)",
+      "coordinates": null,
+      "opening_time": null,
+      "closing_time": null,
+      "hours_verified": false,
+      "last_verified": null,
+      "history": {
+        "documented": [
+          "A Shaiva temple in Karur town with Chola-period origins and later additions; the town was an early centre of Chola-era trade."
+        ],
+        "tradition_or_folklore": []
+      },
+      "statue_or_idol_history": {
+        "main_idol": "Shiva (Pasupatheeswarar)",
+        "documented": null,
+        "tradition_or_folklore": null
+      },
+      "sources_to_check": [
+        "https://hrce.tn.gov.in/hrcehome/temple_list.php"
+      ]
+    },
+    {
+      "place_id": "TN-DIST-NAMAKK-001",
+      "name": "Anjaneyar Temple, Namakkal",
+      "religion": "Hinduism (Hanuman worship)",
+      "site_type": "temple (rock)",
+      "region": "Western Tamil Nadu",
+      "district": "Namakkal",
+      "address": null,
+      "special_deity_or_focus": "Hanuman (Anjaneyar)",
+      "coordinates": null,
+      "opening_time": null,
+      "closing_time": null,
+      "hours_verified": false,
+      "last_verified": null,
+      "history": {
+        "documented": [
+          "A rock-cut Hanuman temple built on a rock hill; the rock-cut architecture is commonly dated to the Nayak period."
+        ],
+        "tradition_or_folklore": [
+          "Tradition relates the Hanuman image to the Ramayana narrative."
+        ]
+      },
+      "statue_or_idol_history": {
+        "main_idol": "Hanuman (Anjaneyar)",
+        "documented": null,
+        "tradition_or_folklore": null
+      },
+      "sources_to_check": [
+        "https://hrce.tn.gov.in/hrcehome/temple_list.php"
+      ]
+    },
+    {
+      "place_id": "TN-DIST-SALEM-002",
+      "name": "Kottai Mariamman Temple, Salem",
+      "religion": "Hinduism (Shaktism)",
+      "site_type": "temple",
+      "region": "Western Tamil Nadu",
+      "district": "Salem",
+      "address": null,
+      "special_deity_or_focus": "Mariamman",
+      "coordinates": null,
+      "opening_time": null,
+      "closing_time": null,
+      "hours_verified": false,
+      "last_verified": null,
+      "history": {
+        "documented": [
+          "A Mariamman temple in central Salem, a popular local shrine of the Shakta tradition."
+        ],
+        "tradition_or_folklore": []
+      },
+      "statue_or_idol_history": {
+        "main_idol": "Mariamman",
+        "documented": null,
+        "tradition_or_folklore": null
+      },
+      "sources_to_check": [
+        "https://hrce.tn.gov.in/hrcehome/temple_list.php"
+      ]
+    },
+    {
+      "place_id": "TN-DIST-SALEM-001",
+      "name": "Sugavaneswarar Temple, Salem",
+      "religion": "Hinduism (Shaivism)",
+      "site_type": "temple",
+      "region": "Western Tamil Nadu",
+      "district": "Salem",
+      "address": null,
+      "special_deity_or_focus": "Shiva (Sugavaneswarar)",
+      "coordinates": null,
+      "opening_time": null,
+      "closing_time": null,
+      "hours_verified": false,
+      "last_verified": null,
+      "history": {
+        "documented": [
+          "A Shaiva temple in Salem with Chola and later additions; it is among the historic temples of the Salem region."
+        ],
+        "tradition_or_folklore": []
+      },
+      "statue_or_idol_history": {
+        "main_idol": "Shiva (Sugavaneswarar)",
+        "documented": null,
+        "tradition_or_folklore": null
+      },
+      "sources_to_check": [
+        "https://hrce.tn.gov.in/hrcehome/temple_list.php"
+      ]
+    },
+    {
+      "place_id": "TN-DIST-TIRUPP-001",
+      "name": "Avinashilingeswarar Temple, Avinashi",
+      "religion": "Hinduism (Shaivism)",
+      "site_type": "temple",
+      "region": "Western Tamil Nadu",
+      "district": "Tiruppur",
+      "address": null,
+      "special_deity_or_focus": "Shiva (Avinashilingeswarar)",
+      "coordinates": null,
+      "opening_time": null,
+      "closing_time": null,
+      "hours_verified": false,
+      "last_verified": null,
+      "history": {
+        "documented": [
+          "A Shaiva temple at Avinashi with Chola-period origins and later additions."
+        ],
+        "tradition_or_folklore": []
+      },
+      "statue_or_idol_history": {
+        "main_idol": "Shiva (Avinashilingeswarar)",
+        "documented": null,
+        "tradition_or_folklore": null
+      },
+      "sources_to_check": [
+        "https://hrce.tn.gov.in/hrcehome/temple_list.php"
+      ]
+    }
+  ],
+  "coverage_note": "This file now has at least one record for most of the 38 districts. Districts marked 'pending' have no verified records yet. Tamil Nadu has many thousands of temples, so this is a representative starter, not a complete directory. Coordinates, addresses, opening hours and last-verified dates are intentionally empty until checked against HR&CE, Tamil Nadu Archaeology, and the district portals. Religion-wise files (tamilnadu_*.json) are kept separately; this overall file merges them without duplicates.",
+  "disclaimer": "CultureGraph is a cultural discovery project. Details such as opening hours, access rules, and site descriptions may change. Please confirm visit information with the official site or local authority. Community traditions and historical interpretations may vary; sources and verification dates are shown where available."
+}
