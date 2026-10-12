@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <defs>
+    <linearGradient id="maroonGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#9E2233" />
+      <stop offset="100%" stop-color="#5E0F1B" />
+    </linearGradient>
+    <linearGradient id="goldGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FFC837" />
+      <stop offset="100%" stop-color="#D98200" />
+    </linearGradient>
+  </defs>
+  <!-- Background with rounded edges -->
+  <rect width="512" height="512" rx="96" fill="url(#maroonGrad)" />
+  
+  <!-- Subtle Gopuram Arch Motif -->
+  <path d="M 100 400 L 100 260 Q 256 90 412 260 L 412 400 Z" fill="none" stroke="url(#goldGrad)" stroke-width="8" opacity="0.35" />
+  <circle cx="256" cy="120" r="16" fill="url(#goldGrad)" />
+  
+  <!-- Tamil Letter 'க' centered -->
+  <text x="256" y="340" font-family="'Noto Sans Tamil', 'Latha', 'Arial', sans-serif" font-size="220" font-weight="bold" fill="#FFF8EE" text-anchor="middle">க</text>
+</svg>

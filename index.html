@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>CultureGraph — Tamil Nadu Culture Guide</title>
+  <meta name="description" content="A comprehensive bilingual guide to Tamil Nadu's classical dance, music, temples, festivals, food, arts, and traditions." />
+  <meta name="theme-color" content="#8F1D2C" />
+  <link rel="manifest" href="manifest.webmanifest" />
+  <link rel="icon" href="icons/icon-192.svg" />
+  <link rel="stylesheet" href="css/styles.css" />
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+</head>
+<body>
+  <a href="#main" class="skip-link">Skip to content</a>
+
+  <header class="site-header">
+    <div class="container header-inner">
+      <a href="#/" class="brand"><span class="brand-mark">CG</span> <span data-i18n="Metadata.siteName">CultureGraph</span></a>
+      <button class="nav-toggle" aria-label="Menu" aria-expanded="false" id="navToggle">☰</button>
+      <nav class="main-nav" id="mainNav">
+        <a href="#/explore" data-i18n="Nav.explore">Explore</a>
+        <a href="#/map" data-i18n="Nav.map">Map</a>
+        <a href="#/districts" data-i18n="Nav.districts">Districts</a>
+        <a href="#/favorites" data-i18n="Nav.favorites">Favorites</a>
+        <a href="#/dashboard" data-i18n="Nav.dashboard">Dashboard</a>
+      </nav>
+      <div class="header-tools">
+        <button class="btn-icon" id="langToggle" title="Switch language">தமிழ்</button>
+        <button class="btn-icon" id="themeToggle" title="Toggle dark mode">🌙</button>
+      </div>
+    </div>
+  </header>
+
+  <main id="main" class="container"></main>
+
+  <footer class="site-footer">
+    <div class="container footer-inner">
+      <p data-i18n="Footer.tagline"></p>
+      <p class="muted" data-i18n="Footer.dataNote"></p>
+      <p class="muted">
+        <a href="#/about" data-i18n="Footer.links.about">About</a> ·
+        <a href="#/credits" data-i18n="Footer.links.credits">Credits</a> ·
+        © <span id="year"></span> CultureGraph
+      </p>
+    </div>
+  </footer>
+
+  <div class="toast" id="toast" role="status" aria-live="polite"></div>
+
+  <script src="js/data.js"></script>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>

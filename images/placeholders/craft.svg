@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" width="800" height="500">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#4E342E" />
+      <stop offset="50%" stop-color="#6D4C41" />
+      <stop offset="100%" stop-color="#1B0000" />
+    </linearGradient>
+    <linearGradient id="goldGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FFE0B2" />
+      <stop offset="100%" stop-color="#FFB74D" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bgGrad)" />
+  <circle cx="400" cy="220" r="140" fill="none" stroke="url(#goldGrad)" stroke-width="2" opacity="0.4" />
+  <text x="400" y="240" font-family="'Noto Serif Tamil', Georgia, serif" font-size="68" fill="#FFE0B2" text-anchor="middle" font-weight="bold">கைவினை &amp; கலை</text>
+  <text x="400" y="300" font-family="'Noto Serif', Georgia, serif" font-size="28" fill="#FFFFFF" text-anchor="middle" letter-spacing="4" opacity="0.9">ARTS &amp; CRAFTS</text>
+  <path d="M 300 330 L 500 330" stroke="url(#goldGrad)" stroke-width="2" opacity="0.5" />
+  <text x="400" y="440" font-family="sans-serif" font-size="16" fill="#E5DFD5" text-anchor="middle" opacity="0.7">CultureGraph — Tamil Nadu Cultural Heritage</text>
+</svg>
